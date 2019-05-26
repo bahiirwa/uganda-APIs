@@ -5,17 +5,17 @@
         "name": "Abim",
         "region": "North",
         "size": "2346",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "name": "Labwor",
-                "sub_counties": [
+                "subCounties": [
                     {
                         "name" : "Abim",
                         "parishes" : [
                             {
                                 "name": "Atunga",
-                                "sub_parishes": [
+                                "subParishes": [
                                     {
                                         "name": "Oryotene",
                                         "villages": [
@@ -52,7 +52,7 @@
                             },
                             {
                                 "name": "Kanu",
-                                "sub_parishes": [
+                                "subParishes": [
                                     {
                                         "name": "Kanu Health Centre II",
                                         "villages": [
@@ -65,7 +65,7 @@
                             },
                             {
                                 "name": "Arembwola",
-                                "sub_parishes": [
+                                "subParishes": [
                                     {
                                         "name": "Arembwola Pr. Sch",
                                         "villages": [
@@ -78,7 +78,7 @@
                             },
                             {
                                 "name": "Aninata",
-                                "sub_parishes": [
+                                "subParishes": [
                                     {
                                         "name": "Aninata Pr. Sch",
                                         "villages": [
@@ -95,7 +95,7 @@
                         "name" : "Alerek",
                         "parishes" : [{
                             "name": "",
-                            "sub_parishes": [{
+                            "subParishes": [{
                                 "name": "",
                                 "villages": [{
                                     "name": ""
@@ -107,7 +107,7 @@
                         "name" : "Lotukei",
                         "parishes" : [{
                             "name": "",
-                            "sub_parishes": [{
+                            "subParishes": [{
                                 "name": "",
                                 "villages": [{
                                     "name": ""
@@ -119,7 +119,7 @@
                         "name" : "Morulem",
                         "parishes" : [{
                             "name": "",
-                            "sub_parishes": [{
+                            "subParishes": [{
                                 "name": "",
                                 "villages": [{
                                     "name": ""
@@ -131,7 +131,7 @@
                         "name" : "Nyakwae",
                         "parishes" : [{
                             "name": "",
-                            "sub_parishes": [{
+                            "subParishes": [{
                                 "name": "",
                                 "villages": [{
                                     "name": ""
@@ -143,7 +143,7 @@
                         "name" : "Abim Town Council",
                         "parishes" : [{
                             "name": "",
-                            "sub_parishes": [{
+                            "subParishes": [{
                                 "name": "",
                                 "villages": [{
                                     "name": ""
@@ -154,23 +154,23 @@
                 ]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-301",
         "name": "Adjumani",
         "region": "North",
         "size": "2962",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -180,23 +180,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-322",
         "name": "Agago",
         "region": "North",
         "size": "3503",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -206,23 +206,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-323",
         "name": "Alebtong",
         "region": "North",
         "size": "1535",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -232,23 +232,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-315",
         "name": "Amolatar",
         "region": "North",
         "size": "1157",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -258,23 +258,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-324",
         "name": "Amudat",
         "region": "North",
         "size": "1626",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -284,23 +284,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-216",
         "name": "Amuria",
         "region": "East",
         "size": "2578",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -310,23 +310,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-316",
         "name": "Amuru",
         "region": "North",
         "size": "2578",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -336,23 +336,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-302",
         "name": "Apac",
         "region": "North",
         "size": "2947",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -362,23 +362,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-303",
         "name": "Arua",
         "region": "North",
         "size": "4343",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -388,23 +388,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-217",
         "name": "Budaka",
         "region": "East",
         "size": "408",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -414,23 +414,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-218",
         "name": "Bududa",
         "region": "East",
         "size": "316",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -440,23 +440,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-201",
         "name": "Bugiri",
         "region": "East",
         "size": "1038",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -466,23 +466,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-235",
         "name": "Bugweri",
         "region": "East",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -492,23 +492,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-420",
         "name": "Buhweju",
         "region": "East",
         "size": "748",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -518,23 +518,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-117",
         "name": "Buikwe",
         "region": "Central",
         "size": "1206",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -544,23 +544,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-219",
         "name": "Bukedea",
         "region": "East",
         "size": "1032",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -570,23 +570,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-118",
         "name": "Bukomansimbi",
         "region": "Central",
         "size": "599",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -596,23 +596,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-220",
         "name": "Bukwa",
         "region": "East",
         "size": "524",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -622,23 +622,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-225",
         "name": "Bulambuli",
         "region": "East",
         "size": "693",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -648,23 +648,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-416",
         "name": "Buliisa",
         "region": "West",
         "size": "1108",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -674,23 +674,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-401",
         "name": "Bundibugyo",
         "region": "West",
         "size": "848",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -700,23 +700,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-430",
         "name": "Bunyangabu",
         "region": "West",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -726,23 +726,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-402",
         "name": "Bushenyi",
         "region": "West",
         "size": "844",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -752,23 +752,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-202",
         "name": "Busia",
         "region": "East",
         "size": "734",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -778,23 +778,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-221",
         "name": "Butaleja",
         "region": "East",
         "size": "653",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -804,23 +804,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-119",
         "name": "Butambala",
         "region": "Central",
         "size": "403",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -830,23 +830,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-233",
         "name": "Butebo",
         "region": "East",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -856,23 +856,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-120",
         "name": "Buvuma",
         "region": "Central",
         "size": "293",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -882,23 +882,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-226",
         "name": "Buyende",
         "region": "East",
         "size": "1379",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -908,23 +908,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-317",
         "name": "Dokolo",
         "region": "North",
         "size": "1004",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -934,23 +934,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-121",
         "name": "Gomba",
         "region": "Central",
         "size": "1664",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -960,23 +960,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-304",
         "name": "Gulu",
         "region": "North",
         "size": "3433",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -986,23 +986,23 @@
                 }]
             }
         ],
-        "townstatus" : "true"
+        "townStatus" : "true"
     },
     {
         "id": "UG-403",
         "name": "Hoima",
         "region": "West",
         "size": "3671",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1012,23 +1012,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-417",
         "name": "Ibanda",
         "region": "West",
         "size": "969",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1038,23 +1038,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-203",
         "name": "Iganga",
         "region": "East",
         "size": "1017",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1064,23 +1064,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-418",
         "name": "Isingiro",
         "region": "West",
         "size": "2613",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1090,23 +1090,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-204",
         "name": "Jinja",
         "region": "East",
         "size": "677",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1116,23 +1116,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-318",
         "name": "Kaabong",
         "region": "North",
         "size": "7298",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1142,23 +1142,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-404",
         "name": "Kabale",
         "region": "West",
         "size": "1680",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1168,23 +1168,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-405",
         "name": "Kabarole",
         "region": "West",
         "size": "1810",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1194,23 +1194,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-213",
         "name": "Kaberamaido",
         "region": "East",
         "size": "1342",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1220,23 +1220,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-427",
         "name": "Kagadi",
         "region": "West",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1246,23 +1246,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-428",
         "name": "Kakumiro",
         "region": "West",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1272,23 +1272,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-101",
         "name": "Kalangala",
         "region": "Central",
         "size": "451",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1298,23 +1298,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-222",
         "name": "Kaliro",
         "region": "East",
         "size": "778",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1324,23 +1324,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-122",
         "name": "Kalungu",
         "region": "Central",
         "size": "812",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1350,23 +1350,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-102",
         "name": "Kampala",
         "region": "Central",
         "size": "188",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1376,23 +1376,23 @@
                 }]
             }
         ],
-        "townstatus" : "true"
+        "townStatus" : "true"
     },
     {
         "id": "UG-205",
         "name": "Kamuli",
         "region": "East",
         "size": "1514",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1402,23 +1402,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-413",
         "name": "Kamwenge",
         "region": "West",
         "size": "2340",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1428,23 +1428,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-414",
         "name": "Kanungu",
         "region": "West",
         "size": "1271",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1454,23 +1454,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-206",
         "name": "Kapchorwa",
         "region": "East",
         "size": "352",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1480,23 +1480,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-236",
         "name": "Kapelebyong",
         "region": "East",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1506,23 +1506,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-126",
         "name": "Kasanda",
         "region": "Central",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1532,23 +1532,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-406",
         "name": "Kasese",
         "region": "West",
         "size": "2943",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1558,23 +1558,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-207",
         "name": "Katakwi",
         "region": "East",
         "size": "2306",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1584,23 +1584,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-112",
         "name": "Kayunga",
         "region": "Central",
         "size": "1592",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1610,23 +1610,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-407",
         "name": "Kibaale",
         "region": "West",
         "size": "4242",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1636,23 +1636,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-103",
         "name": "Kiboga",
         "region": "Central",
         "size": "1592",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1662,23 +1662,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-227",
         "name": "Kibuku",
         "region": "East",
         "size": "481",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1688,23 +1688,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-432",
         "name": "Kikuube",
         "region": "West",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1714,23 +1714,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-419",
         "name": "Kiruhura",
         "region": "West",
         "size": "4555",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1740,23 +1740,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-421",
         "name": "Kiryandongo",
         "region": "West",
         "size": "3595",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1766,23 +1766,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-408",
         "name": "Kisoro",
         "region": "West",
         "size": "699",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1792,23 +1792,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-305",
         "name": "Kitgum",
         "region": "North",
         "size": "3998",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1818,23 +1818,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-319",
         "name": "Koboko",
         "region": "North",
         "size": "760",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1844,23 +1844,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-325",
         "name": "Kole",
         "region": "North",
         "size": "1071",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1870,23 +1870,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-306",
         "name": "Kotido",
         "region": "North",
         "size": "3620",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1896,23 +1896,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-208",
         "name": "Kumi",
         "region": "East",
         "size": "1003",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1922,23 +1922,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-333",
         "name": "Kwania",
         "region": "North",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1948,23 +1948,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-228",
         "name": "Kween",
         "region": "East",
         "size": "850",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -1974,23 +1974,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-123",
         "name": "Kyankwanzi",
         "region": "Central",
         "size": "2466",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2000,23 +2000,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-422",
         "name": "Kyegegwa",
         "region": "West",
         "size": "1747",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2026,23 +2026,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-415",
         "name": "Kyenjojo",
         "region": "West",
         "size": "2357",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2052,23 +2052,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-125",
         "name": "Kyotera",
         "region": "Central",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2078,23 +2078,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-326",
         "name": "Lamwo",
         "region": "North",
         "size": "5598",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2104,23 +2104,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-307",
         "name": "Lira",
         "region": "North",
         "size": "1327",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2130,23 +2130,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-229",
         "name": "Luuka",
         "region": "East",
         "size": "648",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2156,23 +2156,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-104",
         "name": "Luwero",
         "region": "Central",
         "size": "2216",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2182,23 +2182,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-124",
         "name": "Lwengo",
         "region": "Central",
         "size": "1024",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2208,23 +2208,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-114",
         "name": "Lyantonde",
         "region": "Central",
         "size": "883",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2234,23 +2234,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-223",
         "name": "Manafwa",
         "region": "East",
         "size": "533",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2260,23 +2260,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-320",
         "name": "Maracha",
         "region": "North",
         "size": "1572",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2286,23 +2286,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-105",
         "name": "Masaka",
         "region": "Central",
         "size": "1158",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2312,23 +2312,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-409",
         "name": "Masindi",
         "region": "West",
         "size": "3932",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2338,23 +2338,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-214",
         "name": "Mayuge",
         "region": "East",
         "size": "1073",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2364,23 +2364,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-209",
         "name": "Mbale",
         "region": "East",
         "size": "517",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2390,23 +2390,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-410",
         "name": "Mbarara",
         "region": "West",
         "size": "1781",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2416,23 +2416,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-423",
         "name": "Mitooma",
         "region": "West",
         "size": "542",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2442,23 +2442,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-115",
         "name": "Mityana",
         "region": "Central",
         "size": "1542",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2468,23 +2468,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-308",
         "name": "Moroto",
         "region": "North",
         "size": "3564",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2494,23 +2494,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-309",
         "name": "Moyo",
         "region": "North",
         "size": "1902",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2520,23 +2520,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-106",
         "name": "Mpigi",
         "region": "Central",
         "size": "1202",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2546,23 +2546,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-107",
         "name": "Mubende",
         "region": "Central",
         "size": "4591",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2572,23 +2572,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-108",
         "name": "Mukono",
         "region": "Central",
         "size": "1829",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2598,23 +2598,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-334",
         "name": "Nabilatuk",
         "region": "North",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2624,23 +2624,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-311",
         "name": "Nakapiripirit",
         "region": "North",
         "size": "4233",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2650,23 +2650,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-116",
         "name": "Nakaseke",
         "region": "Central",
         "size": "3461",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2676,23 +2676,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-109",
         "name": "Nakasongola",
         "region": "Central",
         "size": "3303",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2702,23 +2702,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-230",
         "name": "Namayingo",
         "region": "East",
         "size": "585",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2728,23 +2728,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-234",
         "name": "Namisindwa",
         "region": "East",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2754,23 +2754,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-224",
         "name": "Namutumba",
         "region": "East",
         "size": "810",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2780,23 +2780,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-327",
         "name": "Napak",
         "region": "North",
         "size": "4901",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2806,23 +2806,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-310",
         "name": "Nebbi",
         "region": "North",
         "size": "1915",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2832,23 +2832,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-231",
         "name": "Ngora",
         "region": "East",
         "size": "637",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2858,23 +2858,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-424",
         "name": "Ntoroko",
         "region": "West",
         "size": "1239",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2884,23 +2884,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-411",
         "name": "Ntungamo",
         "region": "West",
         "size": "2048",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2910,23 +2910,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-328",
         "name": "Nwoya",
         "region": "North",
         "size": "4601",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2936,23 +2936,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-331",
         "name": "Omoro",
         "region": "North",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2962,23 +2962,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-329",
         "name": "Otuke",
         "region": "North",
         "size": "1555",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -2988,23 +2988,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-321",
         "name": "Oyam",
         "region": "North",
         "size": "2190",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3014,23 +3014,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-312",
         "name": "Pader",
         "region": "North",
         "size": "3294",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3040,23 +3040,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-332",
         "name": "Pakwach",
         "region": "North",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3066,23 +3066,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-210",
         "name": "Pallisa",
         "region": "East",
         "size": "1030",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3092,23 +3092,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-110",
         "name": "Rakai",
         "region": "Central",
         "size": "3245",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3118,23 +3118,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-429",
         "name": "Rubanda",
         "region": "West",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3144,23 +3144,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-425",
         "name": "Rubirizi",
         "region": "West",
         "size": "1092",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3170,23 +3170,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-431",
         "name": "Rukiga",
         "region": "West",
         "size": "",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3196,23 +3196,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-412",
         "name": "Rukungiri",
         "region": "West",
         "size": "1435",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3222,23 +3222,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-111",
         "name": "Sembabule",
         "region": "Central",
         "size": "2315",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3248,23 +3248,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-232",
         "name": "Serere",
         "region": "East",
         "size": "1495",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3274,23 +3274,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-426",
         "name": "Sheema",
         "region": "West",
         "size": "696",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3300,23 +3300,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-215",
         "name": "Sironko",
         "region": "East",
         "size": "401",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3326,23 +3326,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-211",
         "name": "Soroti",
         "region": "East",
         "size": "1366",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3352,23 +3352,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-212",
         "name": "Tororo",
         "region": "East",
         "size": "1192",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3378,23 +3378,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-113",
         "name": "Wakiso",
         "region": "Central",
         "size": "1882",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3404,23 +3404,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-313",
         "name": "Yumbe",
         "region": "North",
         "size": "2318",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3430,23 +3430,23 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     },
     {
         "id": "UG-330",
         "name": "Zombo",
         "region": "North",
         "size": "940",
-        "size_units": "sq. kms",
+        "sizeUnits": "sq. kms",
         "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub_counties": [{
+                "subCounties": [{
                     "name" : "",
                     "parishes" : [{
                         "name": "",
-                        "sub_parishes": [{
+                        "subParishes": [{
                             "name": "",
                             "villages": [{
                                 "name": ""
@@ -3456,6 +3456,6 @@
                 }]
             }
         ],
-        "townstatus" : "false"
+        "townStatus" : "false"
     }]
 }]
