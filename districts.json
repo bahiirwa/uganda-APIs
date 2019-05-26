@@ -3,6 +3,7 @@
     {
         "id" : "UG314",
         "name": "Abim",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -14,6 +15,7 @@
     {
         "id": "UG301",
         "name": "Adjumani",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -25,6 +27,7 @@
     {
         "id": "UG322",
         "name": "Agago",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -36,6 +39,7 @@
     {
         "id": "UG323",
         "name": "Alebtong",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -47,6 +51,7 @@
     {
         "id": "UG315",
         "name": "Amolatar",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -58,6 +63,7 @@
     {
         "id": "UG324",
         "name": "Amudat",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -69,6 +75,7 @@
     {
         "id": "UG216",
         "name": "Amuria",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -80,6 +87,7 @@
     {
         "id": "UG316",
         "name": "Amuru",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -91,6 +99,7 @@
     {
         "id": "UG302",
         "name": "Apac",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -102,6 +111,7 @@
     {
         "id": "UG303",
         "name": "Arua",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -113,6 +123,7 @@
     {
         "id": "UG217",
         "name": "Budaka",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -124,6 +135,7 @@
     {
         "id": "UG218",
         "name": "Bududa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -135,6 +147,7 @@
     {
         "id": "UG201",
         "name": "Bugiri",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -146,6 +159,7 @@
     {
         "id": "UG235",
         "name": "Bugweri",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -157,6 +171,7 @@
     {
         "id": "UG420",
         "name": "Buhweju",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -168,6 +183,7 @@
     {
         "id": "UG117",
         "name": "Buikwe",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -179,6 +195,7 @@
     {
         "id": "UG219",
         "name": "Bukedea",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -190,6 +207,7 @@
     {
         "id": "UG118",
         "name": "Bukomansimbi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -201,6 +219,7 @@
     {
         "id": "UG220",
         "name": "Bukwa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -212,6 +231,7 @@
     {
         "id": "UG225",
         "name": "Bulambuli",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -223,6 +243,7 @@
     {
         "id": "UG416",
         "name": "Buliisa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -234,6 +255,7 @@
     {
         "id": "UG401",
         "name": "Bundibugyo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -245,6 +267,7 @@
     {
         "id": "UG430",
         "name": "Bunyangabu",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -256,6 +279,7 @@
     {
         "id": "UG402",
         "name": "Bushenyi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -267,6 +291,7 @@
     {
         "id": "UG202",
         "name": "Busia",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -278,6 +303,7 @@
     {
         "id": "UG221",
         "name": "Butaleja",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -289,6 +315,7 @@
     {
         "id": "UG119",
         "name": "Butambala",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -300,6 +327,7 @@
     {
         "id": "UG233",
         "name": "Butebo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -311,6 +339,7 @@
     {
         "id": "UG120",
         "name": "Buvuma",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -322,6 +351,7 @@
     {
         "id": "UG226",
         "name": "Buyende",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -333,6 +363,7 @@
     {
         "id": "UG317",
         "name": "Dokolo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -344,6 +375,7 @@
     {
         "id": "UG121",
         "name": "Gomba",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -355,6 +387,7 @@
     {
         "id": "UG304",
         "name": "Gulu",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -366,6 +399,7 @@
     {
         "id": "UG403",
         "name": "Hoima",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -377,6 +411,7 @@
     {
         "id": "UG417",
         "name": "Ibanda",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -388,6 +423,7 @@
     {
         "id": "UG203",
         "name": "Iganga",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -399,6 +435,7 @@
     {
         "id": "UG418",
         "name": "Isingiro",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -410,6 +447,7 @@
     {
         "id": "UG204",
         "name": "Jinja",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -421,6 +459,7 @@
     {
         "id": "UG318",
         "name": "Kaabong",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -432,6 +471,7 @@
     {
         "id": "UG404",
         "name": "Kabale",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -443,6 +483,7 @@
     {
         "id": "UG405",
         "name": "Kabarole",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -454,6 +495,7 @@
     {
         "id": "UG213",
         "name": "Kaberamaido",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -465,6 +507,7 @@
     {
         "id": "UG427",
         "name": "Kagadi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -476,6 +519,7 @@
     {
         "id": "UG428",
         "name": "Kakumiro",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -487,6 +531,7 @@
     {
         "id": "UG101",
         "name": "Kalangala",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -498,6 +543,7 @@
     {
         "id": "UG222",
         "name": "Kaliro",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -509,6 +555,7 @@
     {
         "id": "UG122",
         "name": "Kalungu",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -520,6 +567,7 @@
     {
         "id": "UG102",
         "name": "Kampala",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -531,6 +579,7 @@
     {
         "id": "UG205",
         "name": "Kamuli",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -542,6 +591,7 @@
     {
         "id": "UG413",
         "name": "Kamwenge",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -553,6 +603,7 @@
     {
         "id": "UG414",
         "name": "Kanungu",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -564,6 +615,7 @@
     {
         "id": "UG206",
         "name": "Kapchorwa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -575,6 +627,7 @@
     {
         "id": "UG236",
         "name": "Kapelebyong",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -586,6 +639,7 @@
     {
         "id": "UG126",
         "name": "Kasanda",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -597,6 +651,7 @@
     {
         "id": "UG406",
         "name": "Kasese",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -608,6 +663,7 @@
     {
         "id": "UG207",
         "name": "Katakwi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -619,6 +675,7 @@
     {
         "id": "UG112",
         "name": "Kayunga",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -630,6 +687,7 @@
     {
         "id": "UG407",
         "name": "Kibaale",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -641,6 +699,7 @@
     {
         "id": "UG103",
         "name": "Kiboga",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -652,6 +711,7 @@
     {
         "id": "UG227",
         "name": "Kibuku",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -663,6 +723,7 @@
     {
         "id": "UG432",
         "name": "Kikuube",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -674,6 +735,7 @@
     {
         "id": "UG419",
         "name": "Kiruhura",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -685,6 +747,7 @@
     {
         "id": "UG421",
         "name": "Kiryandongo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -696,6 +759,7 @@
     {
         "id": "UG408",
         "name": "Kisoro",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -707,6 +771,7 @@
     {
         "id": "UG305",
         "name": "Kitgum",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -718,6 +783,7 @@
     {
         "id": "UG319",
         "name": "Koboko",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -729,6 +795,7 @@
     {
         "id": "UG325",
         "name": "Kole",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -740,6 +807,7 @@
     {
         "id": "UG306",
         "name": "Kotido",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -751,6 +819,7 @@
     {
         "id": "UG208",
         "name": "Kumi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -762,6 +831,7 @@
     {
         "id": "UG333",
         "name": "Kwania",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -773,6 +843,7 @@
     {
         "id": "UG228",
         "name": "Kween",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -784,6 +855,7 @@
     {
         "id": "UG123",
         "name": "Kyankwanzi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -795,6 +867,7 @@
     {
         "id": "UG422",
         "name": "Kyegegwa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -806,6 +879,7 @@
     {
         "id": "UG415",
         "name": "Kyenjojo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -817,6 +891,7 @@
     {
         "id": "UG125",
         "name": "Kyotera",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -828,6 +903,7 @@
     {
         "id": "UG326",
         "name": "Lamwo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -839,6 +915,7 @@
     {
         "id": "UG307",
         "name": "Lira",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -850,6 +927,7 @@
     {
         "id": "UG229",
         "name": "Luuka",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -861,6 +939,7 @@
     {
         "id": "UG104",
         "name": "Luwero",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -872,6 +951,7 @@
     {
         "id": "UG124",
         "name": "Lwengo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -883,6 +963,7 @@
     {
         "id": "UG114",
         "name": "Lyantonde",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -894,6 +975,7 @@
     {
         "id": "UG223",
         "name": "Manafwa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -905,6 +987,7 @@
     {
         "id": "UG320",
         "name": "Maracha",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -916,6 +999,7 @@
     {
         "id": "UG105",
         "name": "Masaka",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -927,6 +1011,7 @@
     {
         "id": "UG409",
         "name": "Masindi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -938,6 +1023,7 @@
     {
         "id": "UG214",
         "name": "Mayuge",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -949,6 +1035,7 @@
     {
         "id": "UG209",
         "name": "Mbale",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -960,6 +1047,7 @@
     {
         "id": "UG410",
         "name": "Mbarara",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -971,6 +1059,7 @@
     {
         "id": "UG423",
         "name": "Mitooma",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -982,6 +1071,7 @@
     {
         "id": "UG115",
         "name": "Mityana",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -993,6 +1083,7 @@
     {
         "id": "UG308",
         "name": "Moroto",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1004,6 +1095,7 @@
     {
         "id": "UG309",
         "name": "Moyo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1015,6 +1107,7 @@
     {
         "id": "UG106",
         "name": "Mpigi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1026,6 +1119,7 @@
     {
         "id": "UG107",
         "name": "Mubende",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1037,6 +1131,7 @@
     {
         "id": "UG108",
         "name": "Mukono",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1048,6 +1143,7 @@
     {
         "id": "UG334",
         "name": "Nabilatuk",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1059,6 +1155,7 @@
     {
         "id": "UG311",
         "name": "Nakapiripirit",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1070,6 +1167,7 @@
     {
         "id": "UG116",
         "name": "Nakaseke",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1081,6 +1179,7 @@
     {
         "id": "UG109",
         "name": "Nakasongola",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1092,6 +1191,7 @@
     {
         "id": "UG230",
         "name": "Namayingo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1103,6 +1203,7 @@
     {
         "id": "UG234",
         "name": "Namisindwa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1114,6 +1215,7 @@
     {
         "id": "UG224",
         "name": "Namutumba",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1125,6 +1227,7 @@
     {
         "id": "UG327",
         "name": "Napak",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1136,6 +1239,7 @@
     {
         "id": "UG310",
         "name": "Nebbi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1147,6 +1251,7 @@
     {
         "id": "UG231",
         "name": "Ngora",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1158,6 +1263,7 @@
     {
         "id": "UG424",
         "name": "Ntoroko",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1169,6 +1275,7 @@
     {
         "id": "UG411",
         "name": "Ntungamo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1180,6 +1287,7 @@
     {
         "id": "UG328",
         "name": "Nwoya",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1191,6 +1299,7 @@
     {
         "id": "UG331",
         "name": "Omoro",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1202,6 +1311,7 @@
     {
         "id": "UG329",
         "name": "Otuke",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1213,6 +1323,7 @@
     {
         "id": "UG321",
         "name": "Oyam",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1224,6 +1335,7 @@
     {
         "id": "UG312",
         "name": "Pader",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1235,6 +1347,7 @@
     {
         "id": "UG332",
         "name": "Pakwach",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1246,6 +1359,7 @@
     {
         "id": "UG210",
         "name": "Pallisa",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1257,6 +1371,7 @@
     {
         "id": "UG110",
         "name": "Rakai",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1268,6 +1383,7 @@
     {
         "id": "UG429",
         "name": "Rubanda",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1279,6 +1395,7 @@
     {
         "id": "UG425",
         "name": "Rubirizi",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1290,6 +1407,7 @@
     {
         "id": "UG431",
         "name": "Rukiga",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1301,6 +1419,7 @@
     {
         "id": "UG412",
         "name": "Rukungiri",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1312,6 +1431,7 @@
     {
         "id": "UG111",
         "name": "Sembabule",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1323,6 +1443,7 @@
     {
         "id": "UG232",
         "name": "Serere",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1334,6 +1455,7 @@
     {
         "id": "UG426",
         "name": "Sheema",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1345,6 +1467,7 @@
     {
         "id": "UG215",
         "name": "Sironko",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1356,6 +1479,7 @@
     {
         "id": "UG211",
         "name": "Soroti",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1367,6 +1491,7 @@
     {
         "id": "UG212",
         "name": "Tororo",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1378,6 +1503,7 @@
     {
         "id": "UG113",
         "name": "Wakiso",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1389,6 +1515,7 @@
     {
         "id": "UG313",
         "name": "Yumbe",
+        "region": "",
         "county": [
             {
                 "id": "",
@@ -1400,6 +1527,7 @@
     {
         "id": "UG330",
         "name": "Zombo",
+        "region": "",
         "county": [
             {
                 "id": "",
