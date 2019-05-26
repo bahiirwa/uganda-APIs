@@ -4,22 +4,154 @@
         "id" : "UG-314",
         "name": "Abim",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
-                "id": "",
-                "name": "",
-                "sub-county": [{
-                    "name" : "",
-                    "parish" : [{
-                        "name": "",
-                        "sub-parish": [{
+                "name": "Labwor",
+                "sub-county": [
+                    {
+                        "name" : "Abim",
+                        "parish" : [
+                            {
+                                "name": "Atunga",
+                                "sub-parish": [
+                                    {
+                                        "name": "Oryotene",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Apelkere",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Atugo",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Otalabar",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Kanu",
+                                "sub-parish": [
+                                    {
+                                        "name": "Kanu Health Centre II",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Arembwola",
+                                "sub-parish": [
+                                    {
+                                        "name": "Arembwola Pr. Sch",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aninata",
+                                "sub-parish": [
+                                    {
+                                        "name": "Aninata Pr. Sch",
+                                        "village": [
+                                            {
+                                            "name": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name" : "Alerek",
+                        "parish" : [{
                             "name": "",
-                            "village": [{
-                                "name": ""
+                            "sub-parish": [{
+                                "name": "",
+                                "village": [{
+                                    "name": ""
+                                }]
                             }]
                         }]
-                    }]
-                }]
+                    },
+                    {
+                        "name" : "Lotukei",
+                        "parish" : [{
+                            "name": "",
+                            "sub-parish": [{
+                                "name": "",
+                                "village": [{
+                                    "name": ""
+                                }]
+                            }]
+                        }]
+                    },
+                    {
+                        "name" : "Morulem",
+                        "parish" : [{
+                            "name": "",
+                            "sub-parish": [{
+                                "name": "",
+                                "village": [{
+                                    "name": ""
+                                }]
+                            }]
+                        }]
+                    },
+                    {
+                        "name" : "Nyakwae",
+                        "parish" : [{
+                            "name": "",
+                            "sub-parish": [{
+                                "name": "",
+                                "village": [{
+                                    "name": ""
+                                }]
+                            }]
+                        }]
+                    },
+                    {
+                        "name" : "Abim Town Council",
+                        "parish" : [{
+                            "name": "",
+                            "sub-parish": [{
+                                "name": "",
+                                "village": [{
+                                    "name": ""
+                                }]
+                            }]
+                        }]
+                    }
+                ]
             }
         ],
         "townstatus" : "false"
