@@ -6,14 +6,13 @@ This repo has information about Uganda written in JSON format. Depending on your
 ## Districts of Uganda
 Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:UG)
 
+### Usage - Stable version
+https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts.json
+
 ### Testing Progress
 * use Abim district as a test. it has relatively complete data like
 
 ` District : Abim -> County : Labwor -> Sub-county: Abim -> Parish: Atunga -> Sub-Parish: Atugo `
-
-### Usage
-#### Stable version of file
-https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts.json
 
 ### Electoral Commission Statistics:
 * No. of Districts: 122
