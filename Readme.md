@@ -28,6 +28,8 @@ https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts.json
 
 [Uganda Electoral Commission](https://www.ec.or.ug/)
 
+[Africa Open Data](https://africaopendata.org/dataset/size-of-uganda-districts-in-square-kilometers/resource/ec5795f2-fb79-4f23-91ea-bad356aae555)
+
 [District, County, sub-county ](https://www.ec.or.ug/sites/VoterCount/registration%20statistics2011.pdf)
 
 [County, parish by district & sub-county](https://www.ec.or.ug/?q=2016-presidential-results-tally-sheets-district)
