@@ -160,6 +160,8 @@
         "id": "UG-301",
         "name": "Adjumani",
         "region": "North",
+        "size": "2962",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -184,6 +186,8 @@
         "id": "UG-322",
         "name": "Agago",
         "region": "North",
+        "size": "3503",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -208,6 +212,8 @@
         "id": "UG-323",
         "name": "Alebtong",
         "region": "North",
+        "size": "1535",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -232,6 +238,8 @@
         "id": "UG-315",
         "name": "Amolatar",
         "region": "North",
+        "size": "1157",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -256,6 +264,8 @@
         "id": "UG-324",
         "name": "Amudat",
         "region": "North",
+        "size": "1626",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -280,6 +290,8 @@
         "id": "UG-216",
         "name": "Amuria",
         "region": "East",
+        "size": "2578",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -304,6 +316,8 @@
         "id": "UG-316",
         "name": "Amuru",
         "region": "North",
+        "size": "2578",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -328,6 +342,8 @@
         "id": "UG-302",
         "name": "Apac",
         "region": "North",
+        "size": "2947",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -352,6 +368,8 @@
         "id": "UG-303",
         "name": "Arua",
         "region": "North",
+        "size": "4343",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -376,6 +394,8 @@
         "id": "UG-217",
         "name": "Budaka",
         "region": "East",
+        "size": "408",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -400,6 +420,8 @@
         "id": "UG-218",
         "name": "Bududa",
         "region": "East",
+        "size": "316",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -424,6 +446,8 @@
         "id": "UG-201",
         "name": "Bugiri",
         "region": "East",
+        "size": "1038",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -448,6 +472,8 @@
         "id": "UG-235",
         "name": "Bugweri",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -472,6 +498,8 @@
         "id": "UG-420",
         "name": "Buhweju",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -496,6 +524,8 @@
         "id": "UG-117",
         "name": "Buikwe",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -520,6 +550,8 @@
         "id": "UG-219",
         "name": "Bukedea",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -544,6 +576,8 @@
         "id": "UG-118",
         "name": "Bukomansimbi",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -568,6 +602,8 @@
         "id": "UG-220",
         "name": "Bukwa",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -592,6 +628,8 @@
         "id": "UG-225",
         "name": "Bulambuli",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -616,6 +654,8 @@
         "id": "UG-416",
         "name": "Buliisa",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -640,6 +680,8 @@
         "id": "UG-401",
         "name": "Bundibugyo",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -664,6 +706,8 @@
         "id": "UG-430",
         "name": "Bunyangabu",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -688,6 +732,8 @@
         "id": "UG-402",
         "name": "Bushenyi",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -712,6 +758,8 @@
         "id": "UG-202",
         "name": "Busia",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -736,6 +784,8 @@
         "id": "UG-221",
         "name": "Butaleja",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -760,6 +810,8 @@
         "id": "UG-119",
         "name": "Butambala",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -784,6 +836,8 @@
         "id": "UG-233",
         "name": "Butebo",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -808,6 +862,8 @@
         "id": "UG-120",
         "name": "Buvuma",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -832,6 +888,8 @@
         "id": "UG-226",
         "name": "Buyende",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -856,6 +914,8 @@
         "id": "UG-317",
         "name": "Dokolo",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -880,6 +940,8 @@
         "id": "UG-121",
         "name": "Gomba",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -904,6 +966,8 @@
         "id": "UG-304",
         "name": "Gulu",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -928,6 +992,8 @@
         "id": "UG-403",
         "name": "Hoima",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -952,6 +1018,8 @@
         "id": "UG-417",
         "name": "Ibanda",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -976,6 +1044,8 @@
         "id": "UG-203",
         "name": "Iganga",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1000,6 +1070,8 @@
         "id": "UG-418",
         "name": "Isingiro",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1024,6 +1096,8 @@
         "id": "UG-204",
         "name": "Jinja",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1048,6 +1122,8 @@
         "id": "UG-318",
         "name": "Kaabong",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1072,6 +1148,8 @@
         "id": "UG-404",
         "name": "Kabale",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1096,6 +1174,8 @@
         "id": "UG-405",
         "name": "Kabarole",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1120,6 +1200,8 @@
         "id": "UG-213",
         "name": "Kaberamaido",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1144,6 +1226,8 @@
         "id": "UG-427",
         "name": "Kagadi",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1168,6 +1252,8 @@
         "id": "UG-428",
         "name": "Kakumiro",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1192,6 +1278,8 @@
         "id": "UG-101",
         "name": "Kalangala",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1216,6 +1304,8 @@
         "id": "UG-222",
         "name": "Kaliro",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1240,6 +1330,8 @@
         "id": "UG-122",
         "name": "Kalungu",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1264,6 +1356,8 @@
         "id": "UG-102",
         "name": "Kampala",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1288,6 +1382,8 @@
         "id": "UG-205",
         "name": "Kamuli",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1312,6 +1408,8 @@
         "id": "UG-413",
         "name": "Kamwenge",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1336,6 +1434,8 @@
         "id": "UG-414",
         "name": "Kanungu",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1360,6 +1460,8 @@
         "id": "UG-206",
         "name": "Kapchorwa",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1384,6 +1486,8 @@
         "id": "UG-236",
         "name": "Kapelebyong",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1408,6 +1512,8 @@
         "id": "UG-126",
         "name": "Kasanda",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1432,6 +1538,8 @@
         "id": "UG-406",
         "name": "Kasese",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1456,6 +1564,8 @@
         "id": "UG-207",
         "name": "Katakwi",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1480,6 +1590,8 @@
         "id": "UG-112",
         "name": "Kayunga",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1504,6 +1616,8 @@
         "id": "UG-407",
         "name": "Kibaale",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1528,6 +1642,8 @@
         "id": "UG-103",
         "name": "Kiboga",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1552,6 +1668,8 @@
         "id": "UG-227",
         "name": "Kibuku",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1576,6 +1694,8 @@
         "id": "UG-432",
         "name": "Kikuube",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1600,6 +1720,8 @@
         "id": "UG-419",
         "name": "Kiruhura",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1624,6 +1746,8 @@
         "id": "UG-421",
         "name": "Kiryandongo",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1648,6 +1772,8 @@
         "id": "UG-408",
         "name": "Kisoro",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1672,6 +1798,8 @@
         "id": "UG-305",
         "name": "Kitgum",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1696,6 +1824,8 @@
         "id": "UG-319",
         "name": "Koboko",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1720,6 +1850,8 @@
         "id": "UG-325",
         "name": "Kole",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1744,6 +1876,8 @@
         "id": "UG-306",
         "name": "Kotido",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1768,6 +1902,8 @@
         "id": "UG-208",
         "name": "Kumi",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1792,6 +1928,8 @@
         "id": "UG-333",
         "name": "Kwania",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1816,6 +1954,8 @@
         "id": "UG-228",
         "name": "Kween",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1840,6 +1980,8 @@
         "id": "UG-123",
         "name": "Kyankwanzi",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1864,6 +2006,8 @@
         "id": "UG-422",
         "name": "Kyegegwa",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1888,6 +2032,8 @@
         "id": "UG-415",
         "name": "Kyenjojo",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1912,6 +2058,8 @@
         "id": "UG-125",
         "name": "Kyotera",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1936,6 +2084,8 @@
         "id": "UG-326",
         "name": "Lamwo",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1960,6 +2110,8 @@
         "id": "UG-307",
         "name": "Lira",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -1984,6 +2136,8 @@
         "id": "UG-229",
         "name": "Luuka",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2008,6 +2162,8 @@
         "id": "UG-104",
         "name": "Luwero",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2032,6 +2188,8 @@
         "id": "UG-124",
         "name": "Lwengo",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2056,6 +2214,8 @@
         "id": "UG-114",
         "name": "Lyantonde",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2080,6 +2240,8 @@
         "id": "UG-223",
         "name": "Manafwa",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2104,6 +2266,8 @@
         "id": "UG-320",
         "name": "Maracha",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2128,6 +2292,8 @@
         "id": "UG-105",
         "name": "Masaka",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2152,6 +2318,8 @@
         "id": "UG-409",
         "name": "Masindi",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2176,6 +2344,8 @@
         "id": "UG-214",
         "name": "Mayuge",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2200,6 +2370,8 @@
         "id": "UG-209",
         "name": "Mbale",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2224,6 +2396,8 @@
         "id": "UG-410",
         "name": "Mbarara",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2248,6 +2422,8 @@
         "id": "UG-423",
         "name": "Mitooma",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2272,6 +2448,8 @@
         "id": "UG-115",
         "name": "Mityana",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2296,6 +2474,8 @@
         "id": "UG-308",
         "name": "Moroto",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2320,6 +2500,8 @@
         "id": "UG-309",
         "name": "Moyo",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2344,6 +2526,8 @@
         "id": "UG-106",
         "name": "Mpigi",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2368,6 +2552,8 @@
         "id": "UG-107",
         "name": "Mubende",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2392,6 +2578,8 @@
         "id": "UG-108",
         "name": "Mukono",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2416,6 +2604,8 @@
         "id": "UG-334",
         "name": "Nabilatuk",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2440,6 +2630,8 @@
         "id": "UG-311",
         "name": "Nakapiripirit",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2464,6 +2656,8 @@
         "id": "UG-116",
         "name": "Nakaseke",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2488,6 +2682,8 @@
         "id": "UG-109",
         "name": "Nakasongola",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2512,6 +2708,8 @@
         "id": "UG-230",
         "name": "Namayingo",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2536,6 +2734,8 @@
         "id": "UG-234",
         "name": "Namisindwa",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2560,6 +2760,8 @@
         "id": "UG-224",
         "name": "Namutumba",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2584,6 +2786,8 @@
         "id": "UG-327",
         "name": "Napak",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2608,6 +2812,8 @@
         "id": "UG-310",
         "name": "Nebbi",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2632,6 +2838,8 @@
         "id": "UG-231",
         "name": "Ngora",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2656,6 +2864,8 @@
         "id": "UG-424",
         "name": "Ntoroko",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2680,6 +2890,8 @@
         "id": "UG-411",
         "name": "Ntungamo",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2704,6 +2916,8 @@
         "id": "UG-328",
         "name": "Nwoya",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2728,6 +2942,8 @@
         "id": "UG-331",
         "name": "Omoro",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2752,6 +2968,8 @@
         "id": "UG-329",
         "name": "Otuke",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2776,6 +2994,8 @@
         "id": "UG-321",
         "name": "Oyam",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2800,6 +3020,8 @@
         "id": "UG-312",
         "name": "Pader",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2824,6 +3046,8 @@
         "id": "UG-332",
         "name": "Pakwach",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2848,6 +3072,8 @@
         "id": "UG-210",
         "name": "Pallisa",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2872,6 +3098,8 @@
         "id": "UG-110",
         "name": "Rakai",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2896,6 +3124,8 @@
         "id": "UG-429",
         "name": "Rubanda",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2920,6 +3150,8 @@
         "id": "UG-425",
         "name": "Rubirizi",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2944,6 +3176,8 @@
         "id": "UG-431",
         "name": "Rukiga",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2968,6 +3202,8 @@
         "id": "UG-412",
         "name": "Rukungiri",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -2992,6 +3228,8 @@
         "id": "UG-111",
         "name": "Sembabule",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3016,6 +3254,8 @@
         "id": "UG-232",
         "name": "Serere",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3040,6 +3280,8 @@
         "id": "UG-426",
         "name": "Sheema",
         "region": "West",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3064,6 +3306,8 @@
         "id": "UG-215",
         "name": "Sironko",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3088,6 +3332,8 @@
         "id": "UG-211",
         "name": "Soroti",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3112,6 +3358,8 @@
         "id": "UG-212",
         "name": "Tororo",
         "region": "East",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3136,6 +3384,8 @@
         "id": "UG-113",
         "name": "Wakiso",
         "region": "Central",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3160,6 +3410,8 @@
         "id": "UG-313",
         "name": "Yumbe",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
@@ -3184,6 +3436,8 @@
         "id": "UG-330",
         "name": "Zombo",
         "region": "North",
+        "size": "2346",
+        "size-units": "sq. kms",
         "county": [
             {
                 "id": "",
