@@ -11,6 +11,10 @@ Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/IS
 
 ` District : Abim -> County : Labwor -> Sub-county: Abim -> Parish: Atunga -> Sub-Parish: Atugo `
 
+### Usage
+#### Stable version of file
+https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts.json
+
 ### Electoral Commission Statistics:
 * No. of Districts: 122
 * No. of Consistencies: 296
