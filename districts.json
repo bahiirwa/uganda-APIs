@@ -4,7 +4,7 @@
         "id" : "UG-314",
         "name": "Abim",
         "region": "North",
-        "size": "2346",
+        "size": 2346,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -154,13 +154,13 @@
                 ]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-301",
         "name": "Adjumani",
         "region": "North",
-        "size": "2962",
+        "size": 2962,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -180,13 +180,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-322",
         "name": "Agago",
         "region": "North",
-        "size": "3503",
+        "size": 3503,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -206,13 +206,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-323",
         "name": "Alebtong",
         "region": "North",
-        "size": "1535",
+        "size": 1535,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -232,13 +232,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-315",
         "name": "Amolatar",
         "region": "North",
-        "size": "1157",
+        "size": 1157,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -258,13 +258,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-324",
         "name": "Amudat",
         "region": "North",
-        "size": "1626",
+        "size": 1626,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -284,13 +284,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-216",
         "name": "Amuria",
         "region": "East",
-        "size": "2578",
+        "size": 2578,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -310,13 +310,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-316",
         "name": "Amuru",
         "region": "North",
-        "size": "2578",
+        "size": 2578,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -336,13 +336,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-302",
         "name": "Apac",
         "region": "North",
-        "size": "2947",
+        "size": 2947,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -362,13 +362,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-303",
         "name": "Arua",
         "region": "North",
-        "size": "4343",
+        "size": 4343,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -388,13 +388,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-217",
         "name": "Budaka",
         "region": "East",
-        "size": "408",
+        "size": 408,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -414,13 +414,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-218",
         "name": "Bududa",
         "region": "East",
-        "size": "316",
+        "size": 316,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -440,13 +440,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-201",
         "name": "Bugiri",
         "region": "East",
-        "size": "1038",
+        "size": 1038,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -466,13 +466,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-235",
         "name": "Bugweri",
         "region": "East",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -492,13 +492,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-420",
         "name": "Buhweju",
         "region": "East",
-        "size": "748",
+        "size": 748,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -518,13 +518,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-117",
         "name": "Buikwe",
         "region": "Central",
-        "size": "1206",
+        "size": 1206,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -544,13 +544,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-219",
         "name": "Bukedea",
         "region": "East",
-        "size": "1032",
+        "size": 1032,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -570,13 +570,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-118",
         "name": "Bukomansimbi",
         "region": "Central",
-        "size": "599",
+        "size": 599,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -596,13 +596,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-220",
         "name": "Bukwa",
         "region": "East",
-        "size": "524",
+        "size": 524,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -622,13 +622,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-225",
         "name": "Bulambuli",
         "region": "East",
-        "size": "693",
+        "size": 693,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -648,13 +648,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-416",
         "name": "Buliisa",
         "region": "West",
-        "size": "1108",
+        "size": 1108,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -674,13 +674,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-401",
         "name": "Bundibugyo",
         "region": "West",
-        "size": "848",
+        "size": 848,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -700,13 +700,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-430",
         "name": "Bunyangabu",
         "region": "West",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -726,13 +726,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-402",
         "name": "Bushenyi",
         "region": "West",
-        "size": "844",
+        "size": 844,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -752,13 +752,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-202",
         "name": "Busia",
         "region": "East",
-        "size": "734",
+        "size": 734,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -778,13 +778,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-221",
         "name": "Butaleja",
         "region": "East",
-        "size": "653",
+        "size": 653,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -804,13 +804,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-119",
         "name": "Butambala",
         "region": "Central",
-        "size": "403",
+        "size": 403,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -830,13 +830,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-233",
         "name": "Butebo",
         "region": "East",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -856,13 +856,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-120",
         "name": "Buvuma",
         "region": "Central",
-        "size": "293",
+        "size": 293,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -882,13 +882,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-226",
         "name": "Buyende",
         "region": "East",
-        "size": "1379",
+        "size": 1379,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -908,13 +908,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-317",
         "name": "Dokolo",
         "region": "North",
-        "size": "1004",
+        "size": 1004,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -934,13 +934,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-121",
         "name": "Gomba",
         "region": "Central",
-        "size": "1664",
+        "size": 1664,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -960,13 +960,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-304",
         "name": "Gulu",
         "region": "North",
-        "size": "3433",
+        "size": 3433,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -992,7 +992,7 @@
         "id": "UG-403",
         "name": "Hoima",
         "region": "West",
-        "size": "3671",
+        "size": 3671,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1012,13 +1012,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-417",
         "name": "Ibanda",
         "region": "West",
-        "size": "969",
+        "size": 969,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1038,13 +1038,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-203",
         "name": "Iganga",
         "region": "East",
-        "size": "1017",
+        "size": 1017,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1064,13 +1064,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-418",
         "name": "Isingiro",
         "region": "West",
-        "size": "2613",
+        "size": 2613,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1090,13 +1090,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-204",
         "name": "Jinja",
         "region": "East",
-        "size": "677",
+        "size": 677,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1116,13 +1116,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-318",
         "name": "Kaabong",
         "region": "North",
-        "size": "7298",
+        "size": 7298,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1142,13 +1142,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-404",
         "name": "Kabale",
         "region": "West",
-        "size": "1680",
+        "size": 1680,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1168,13 +1168,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-405",
         "name": "Kabarole",
         "region": "West",
-        "size": "1810",
+        "size": 1810,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1194,13 +1194,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-213",
         "name": "Kaberamaido",
         "region": "East",
-        "size": "1342",
+        "size": 1342,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1220,13 +1220,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-427",
         "name": "Kagadi",
         "region": "West",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1246,13 +1246,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-428",
         "name": "Kakumiro",
         "region": "West",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1272,13 +1272,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-101",
         "name": "Kalangala",
         "region": "Central",
-        "size": "451",
+        "size": 451,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1298,13 +1298,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-222",
         "name": "Kaliro",
         "region": "East",
-        "size": "778",
+        "size": 778,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1324,13 +1324,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-122",
         "name": "Kalungu",
         "region": "Central",
-        "size": "812",
+        "size": 812,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1350,13 +1350,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-102",
         "name": "Kampala",
         "region": "Central",
-        "size": "188",
+        "size": 188,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1382,7 +1382,7 @@
         "id": "UG-205",
         "name": "Kamuli",
         "region": "East",
-        "size": "1514",
+        "size": 1514,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1402,13 +1402,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-413",
         "name": "Kamwenge",
         "region": "West",
-        "size": "2340",
+        "size": 2340,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1428,13 +1428,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-414",
         "name": "Kanungu",
         "region": "West",
-        "size": "1271",
+        "size": 1271,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1454,13 +1454,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-206",
         "name": "Kapchorwa",
         "region": "East",
-        "size": "352",
+        "size": 352,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1480,13 +1480,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-236",
         "name": "Kapelebyong",
         "region": "East",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1506,13 +1506,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-126",
         "name": "Kasanda",
         "region": "Central",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1532,13 +1532,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-406",
         "name": "Kasese",
         "region": "West",
-        "size": "2943",
+        "size": 2943,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1558,13 +1558,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-207",
         "name": "Katakwi",
         "region": "East",
-        "size": "2306",
+        "size": 2306,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1584,13 +1584,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-112",
         "name": "Kayunga",
         "region": "Central",
-        "size": "1592",
+        "size": 1592,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1610,13 +1610,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-407",
         "name": "Kibaale",
         "region": "West",
-        "size": "4242",
+        "size": 4242,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1636,13 +1636,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-103",
         "name": "Kiboga",
         "region": "Central",
-        "size": "1592",
+        "size": 1592,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1662,13 +1662,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-227",
         "name": "Kibuku",
         "region": "East",
-        "size": "481",
+        "size": 481,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1688,13 +1688,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-432",
         "name": "Kikuube",
         "region": "West",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1714,13 +1714,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-419",
         "name": "Kiruhura",
         "region": "West",
-        "size": "4555",
+        "size": 4555,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1740,13 +1740,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-421",
         "name": "Kiryandongo",
         "region": "West",
-        "size": "3595",
+        "size": 3595,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1766,13 +1766,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-408",
         "name": "Kisoro",
         "region": "West",
-        "size": "699",
+        "size": 699,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1792,13 +1792,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-305",
         "name": "Kitgum",
         "region": "North",
-        "size": "3998",
+        "size": 3998,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1818,13 +1818,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-319",
         "name": "Koboko",
         "region": "North",
-        "size": "760",
+        "size": 760,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1844,13 +1844,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-325",
         "name": "Kole",
         "region": "North",
-        "size": "1071",
+        "size": 1071,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1870,13 +1870,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-306",
         "name": "Kotido",
         "region": "North",
-        "size": "3620",
+        "size": 3620,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1896,13 +1896,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-208",
         "name": "Kumi",
         "region": "East",
-        "size": "1003",
+        "size": 1003,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1922,13 +1922,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-333",
         "name": "Kwania",
         "region": "North",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1948,13 +1948,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-228",
         "name": "Kween",
         "region": "East",
-        "size": "850",
+        "size": 850,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -1974,13 +1974,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-123",
         "name": "Kyankwanzi",
         "region": "Central",
-        "size": "2466",
+        "size": 2466,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2000,13 +2000,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-422",
         "name": "Kyegegwa",
         "region": "West",
-        "size": "1747",
+        "size": 1747,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2026,13 +2026,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-415",
         "name": "Kyenjojo",
         "region": "West",
-        "size": "2357",
+        "size": 2357,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2052,13 +2052,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-125",
         "name": "Kyotera",
         "region": "Central",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2078,13 +2078,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-326",
         "name": "Lamwo",
         "region": "North",
-        "size": "5598",
+        "size": 5598,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2104,13 +2104,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-307",
         "name": "Lira",
         "region": "North",
-        "size": "1327",
+        "size": 1327,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2130,13 +2130,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-229",
         "name": "Luuka",
         "region": "East",
-        "size": "648",
+        "size": 648,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2156,13 +2156,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-104",
         "name": "Luwero",
         "region": "Central",
-        "size": "2216",
+        "size": 2216,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2182,13 +2182,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-124",
         "name": "Lwengo",
         "region": "Central",
-        "size": "1024",
+        "size": 1024,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2208,13 +2208,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-114",
         "name": "Lyantonde",
         "region": "Central",
-        "size": "883",
+        "size": 883,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2234,13 +2234,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-223",
         "name": "Manafwa",
         "region": "East",
-        "size": "533",
+        "size": 533,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2260,13 +2260,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-320",
         "name": "Maracha",
         "region": "North",
-        "size": "1572",
+        "size": 1572,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2286,13 +2286,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-105",
         "name": "Masaka",
         "region": "Central",
-        "size": "1158",
+        "size": 1158,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2312,13 +2312,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-409",
         "name": "Masindi",
         "region": "West",
-        "size": "3932",
+        "size": 3932,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2338,13 +2338,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-214",
         "name": "Mayuge",
         "region": "East",
-        "size": "1073",
+        "size": 1073,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2364,13 +2364,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-209",
         "name": "Mbale",
         "region": "East",
-        "size": "517",
+        "size": 517,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2390,13 +2390,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-410",
         "name": "Mbarara",
         "region": "West",
-        "size": "1781",
+        "size": 1781,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2416,13 +2416,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-423",
         "name": "Mitooma",
         "region": "West",
-        "size": "542",
+        "size": 542,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2442,13 +2442,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-115",
         "name": "Mityana",
         "region": "Central",
-        "size": "1542",
+        "size": 1542,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2468,13 +2468,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-308",
         "name": "Moroto",
         "region": "North",
-        "size": "3564",
+        "size": 3564,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2494,13 +2494,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-309",
         "name": "Moyo",
         "region": "North",
-        "size": "1902",
+        "size": 1902,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2520,13 +2520,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-106",
         "name": "Mpigi",
         "region": "Central",
-        "size": "1202",
+        "size": 1202,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2546,13 +2546,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-107",
         "name": "Mubende",
         "region": "Central",
-        "size": "4591",
+        "size": 4591,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2572,13 +2572,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-108",
         "name": "Mukono",
         "region": "Central",
-        "size": "1829",
+        "size": 1829,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2598,13 +2598,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-334",
         "name": "Nabilatuk",
         "region": "North",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2624,13 +2624,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-311",
         "name": "Nakapiripirit",
         "region": "North",
-        "size": "4233",
+        "size": 4233,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2650,13 +2650,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-116",
         "name": "Nakaseke",
         "region": "Central",
-        "size": "3461",
+        "size": 3461,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2676,13 +2676,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-109",
         "name": "Nakasongola",
         "region": "Central",
-        "size": "3303",
+        "size": 3303,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2702,13 +2702,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-230",
         "name": "Namayingo",
         "region": "East",
-        "size": "585",
+        "size": 585,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2728,13 +2728,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-234",
         "name": "Namisindwa",
         "region": "East",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2754,13 +2754,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-224",
         "name": "Namutumba",
         "region": "East",
-        "size": "810",
+        "size": 810,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2780,13 +2780,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-327",
         "name": "Napak",
         "region": "North",
-        "size": "4901",
+        "size": 4901,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2806,13 +2806,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-310",
         "name": "Nebbi",
         "region": "North",
-        "size": "1915",
+        "size": 1915,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2832,13 +2832,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-231",
         "name": "Ngora",
         "region": "East",
-        "size": "637",
+        "size": 637,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2858,13 +2858,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-424",
         "name": "Ntoroko",
         "region": "West",
-        "size": "1239",
+        "size": 1239,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2884,13 +2884,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-411",
         "name": "Ntungamo",
         "region": "West",
-        "size": "2048",
+        "size": 2048,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2910,13 +2910,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-328",
         "name": "Nwoya",
         "region": "North",
-        "size": "4601",
+        "size": 4601,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2936,13 +2936,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-331",
         "name": "Omoro",
         "region": "North",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2962,13 +2962,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-329",
         "name": "Otuke",
         "region": "North",
-        "size": "1555",
+        "size": 1555,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -2988,13 +2988,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-321",
         "name": "Oyam",
         "region": "North",
-        "size": "2190",
+        "size": 2190,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3014,13 +3014,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-312",
         "name": "Pader",
         "region": "North",
-        "size": "3294",
+        "size": 3294,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3040,13 +3040,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-332",
         "name": "Pakwach",
         "region": "North",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3066,13 +3066,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-210",
         "name": "Pallisa",
         "region": "East",
-        "size": "1030",
+        "size": 1030,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3092,13 +3092,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-110",
         "name": "Rakai",
         "region": "Central",
-        "size": "3245",
+        "size": 3245,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3118,13 +3118,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-429",
         "name": "Rubanda",
         "region": "West",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3144,13 +3144,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-425",
         "name": "Rubirizi",
         "region": "West",
-        "size": "1092",
+        "size": 1092,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3170,13 +3170,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-431",
         "name": "Rukiga",
         "region": "West",
-        "size": "",
+        "size": null,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3196,13 +3196,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-412",
         "name": "Rukungiri",
         "region": "West",
-        "size": "1435",
+        "size": 1435,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3222,13 +3222,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-111",
         "name": "Sembabule",
         "region": "Central",
-        "size": "2315",
+        "size": 2315,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3248,13 +3248,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-232",
         "name": "Serere",
         "region": "East",
-        "size": "1495",
+        "size": 1495,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3274,13 +3274,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-426",
         "name": "Sheema",
         "region": "West",
-        "size": "696",
+        "size": 696,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3300,13 +3300,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-215",
         "name": "Sironko",
         "region": "East",
-        "size": "401",
+        "size": 401,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3326,13 +3326,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-211",
         "name": "Soroti",
         "region": "East",
-        "size": "1366",
+        "size": 1366,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3352,13 +3352,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-212",
         "name": "Tororo",
         "region": "East",
-        "size": "1192",
+        "size": 1192,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3378,13 +3378,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-113",
         "name": "Wakiso",
         "region": "Central",
-        "size": "1882",
+        "size": 1882,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3404,13 +3404,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-313",
         "name": "Yumbe",
         "region": "North",
-        "size": "2318",
+        "size": 2318,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3430,13 +3430,13 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     },
     {
         "id": "UG-330",
         "name": "Zombo",
         "region": "North",
-        "size": "940",
+        "size": 940,
         "sizeUnits": "sq. kms",
         "counties": [
             {
@@ -3456,6 +3456,6 @@
                 }]
             }
         ],
-        "townStatus" : "false"
+        "townStatus" : false
     }]
 }]
