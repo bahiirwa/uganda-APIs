@@ -24,3 +24,7 @@ Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/IS
 [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:UG)
 
 [Uganda Electoral Commission](https://www.ec.or.ug/)
+
+[District, County, sub-county ](https://www.ec.or.ug/sites/VoterCount/registration%20statistics2011.pdf)
+
+[County, parish by district & sub-county](https://www.ec.or.ug/?q=2016-presidential-results-tally-sheets-district)
