@@ -1,0 +1,515 @@
+[{
+    "districts": [
+    {
+        "id" : "UG314",
+        "name": "Abim"
+    },
+    {
+        "id": "UG301",
+        "name": "Adjumani"
+    },
+    {
+        "id": "UG322",
+        "name": "Agago"
+    },
+    {
+        "id": "UG323",
+        "name": "Alebtong"
+    },
+    {
+        "id": "UG315",
+        "name": "Amolatar"
+    },
+    {
+        "id": "UG324",
+        "name": "Amudat"
+    },
+    {
+        "id": "UG216",
+        "name": "Amuria"
+    },
+    {
+        "id": "UG316",
+        "name": "Amuru"
+    },
+    {
+        "id": "UG302",
+        "name": "Apac"
+    },
+    {
+        "id": "UG303",
+        "name": "Arua"
+    },
+    {
+        "id": "UG217",
+        "name": "Budaka"
+    },
+    {
+        "id": "UG218",
+        "name": "Bududa"
+    },
+    {
+        "id": "UG201",
+        "name": "Bugiri"
+    },
+    {
+        "id": "UG235",
+        "name": "Bugweri"
+    },
+    {
+        "id": "UG420",
+        "name": "Buhweju"
+    },
+    {
+        "id": "UG117",
+        "name": "Buikwe"
+    },
+    {
+        "id": "UG219",
+        "name": "Bukedea"
+    },
+    {
+        "id": "UG118",
+        "name": "Bukomansimbi"
+    },
+    {
+        "id": "UG220",
+        "name": "Bukwa"
+    },
+    {
+        "id": "UG225",
+        "name": "Bulambuli"
+    },
+    {
+        "id": "UG416",
+        "name": "Buliisa"
+    },
+    {
+        "id": "UG401",
+        "name": "Bundibugyo"
+    },
+    {
+        "id": "UG430",
+        "name": "Bunyangabu"
+    },
+    {
+        "id": "UG402",
+        "name": "Bushenyi"
+    },
+    {
+        "id": "UG202",
+        "name": "Busia"
+    },
+    {
+        "id": "UG221",
+        "name": "Butaleja"
+    },
+    {
+        "id": "UG119",
+        "name": "Butambala"
+    },
+    {
+        "id": "UG233",
+        "name": "Butebo"
+    },
+    {
+        "id": "UG120",
+        "name": "Buvuma"
+    },
+    {
+        "id": "UG226",
+        "name": "Buyende"
+    },
+    {
+        "id": "UG317",
+        "name": "Dokolo"
+    },
+    {
+        "id": "UG121",
+        "name": "Gomba"
+    },
+    {
+        "id": "UG304",
+        "name": "Gulu"
+    },
+    {
+        "id": "UG403",
+        "name": "Hoima"
+    },
+    {
+        "id": "UG417",
+        "name": "Ibanda"
+    },
+    {
+        "id": "UG203",
+        "name": "Iganga"
+    },
+    {
+        "id": "UG418",
+        "name": "Isingiro"
+    },
+    {
+        "id": "UG204",
+        "name": "Jinja"
+    },
+    {
+        "id": "UG318",
+        "name": "Kaabong"
+    },
+    {
+        "id": "UG404",
+        "name": "Kabale"
+    },
+    {
+        "id": "UG405",
+        "name": "Kabarole"
+    },
+    {
+        "id": "UG213",
+        "name": "Kaberamaido"
+    },
+    {
+        "id": "UG427",
+        "name": "Kagadi"
+    },
+    {
+        "id": "UG428",
+        "name": "Kakumiro"
+    },
+    {
+        "id": "UG101",
+        "name": "Kalangala"
+    },
+    {
+        "id": "UG222",
+        "name": "Kaliro"
+    },
+    {
+        "id": "UG122",
+        "name": "Kalungu"
+    },
+    {
+        "id": "UG102",
+        "name": "Kampala"
+    },
+    {
+        "id": "UG205",
+        "name": "Kamuli"
+    },
+    {
+        "id": "UG413",
+        "name": "Kamwenge"
+    },
+    {
+        "id": "UG414",
+        "name": "Kanungu"
+    },
+    {
+        "id": "UG206",
+        "name": "Kapchorwa"
+    },
+    {
+        "id": "UG236",
+        "name": "Kapelebyong"
+    },
+    {
+        "id": "UG126",
+        "name": "Kasanda"
+    },
+    {
+        "id": "UG406",
+        "name": "Kasese"
+    },
+    {
+        "id": "UG207",
+        "name": "Katakwi"
+    },
+    {
+        "id": "UG112",
+        "name": "Kayunga"
+    },
+    {
+        "id": "UG407",
+        "name": "Kibaale"
+    },
+    {
+        "id": "UG103",
+        "name": "Kiboga"
+    },
+    {
+        "id": "UG227",
+        "name": "Kibuku"
+    },
+    {
+        "id": "UG432",
+        "name": "Kikuube"
+    },
+    {
+        "id": "UG419",
+        "name": "Kiruhura"
+    },
+    {
+        "id": "UG421",
+        "name": "Kiryandongo"
+    },
+    {
+        "id": "UG408",
+        "name": "Kisoro"
+    },
+    {
+        "id": "UG305",
+        "name": "Kitgum"
+    },
+    {
+        "id": "UG319",
+        "name": "Koboko"
+    },
+    {
+        "id": "UG325",
+        "name": "Kole"
+    },
+    {
+        "id": "UG306",
+        "name": "Kotido"
+    },
+    {
+        "id": "UG208",
+        "name": "Kumi"
+    },
+    {
+        "id": "UG333",
+        "name": "Kwania"
+    },
+    {
+        "id": "UG228",
+        "name": "Kween"
+    },
+    {
+        "id": "UG123",
+        "name": "Kyankwanzi"
+    },
+    {
+        "id": "UG422",
+        "name": "Kyegegwa"
+    },
+    {
+        "id": "UG415",
+        "name": "Kyenjojo"
+    },
+    {
+        "id": "UG125",
+        "name": "Kyotera"
+    },
+    {
+        "id": "UG326",
+        "name": "Lamwo"
+    },
+    {
+        "id": "UG307",
+        "name": "Lira"
+    },
+    {
+        "id": "UG229",
+        "name": "Luuka"
+    },
+    {
+        "id": "UG104",
+        "name": "Luwero"
+    },
+    {
+        "id": "UG124",
+        "name": "Lwengo"
+    },
+    {
+        "id": "UG114",
+        "name": "Lyantonde"
+    },
+    {
+        "id": "UG223",
+        "name": "Manafwa"
+    },
+    {
+        "id": "UG320",
+        "name": "Maracha"
+    },
+    {
+        "id": "UG105",
+        "name": "Masaka"
+    },
+    {
+        "id": "UG409",
+        "name": "Masindi"
+    },
+    {
+        "id": "UG214",
+        "name": "Mayuge"
+    },
+    {
+        "id": "UG209",
+        "name": "Mbale"
+    },
+    {
+        "id": "UG410",
+        "name": "Mbarara"
+    },
+    {
+        "id": "UG423",
+        "name": "Mitooma"
+    },
+    {
+        "id": "UG115",
+        "name": "Mityana"
+    },
+    {
+        "id": "UG308",
+        "name": "Moroto"
+    },
+    {
+        "id": "UG309",
+        "name": "Moyo"
+    },
+    {
+        "id": "UG106",
+        "name": "Mpigi"
+    },
+    {
+        "id": "UG107",
+        "name": "Mubende"
+    },
+    {
+        "id": "UG108",
+        "name": "Mukono"
+    },
+    {
+        "id": "UG334",
+        "name": "Nabilatuk"
+    },
+    {
+        "id": "UG311",
+        "name": "Nakapiripirit"
+    },
+    {
+        "id": "UG116",
+        "name": "Nakaseke"
+    },
+    {
+        "id": "UG109",
+        "name": "Nakasongola"
+    },
+    {
+        "id": "UG230",
+        "name": "Namayingo"
+    },
+    {
+        "id": "UG234",
+        "name": "Namisindwa"
+    },
+    {
+        "id": "UG224",
+        "name": "Namutumba"
+    },
+    {
+        "id": "UG327",
+        "name": "Napak"
+    },
+    {
+        "id": "UG310",
+        "name": "Nebbi"
+    },
+    {
+        "id": "UG231",
+        "name": "Ngora"
+    },
+    {
+        "id": "UG424",
+        "name": "Ntoroko"
+    },
+    {
+        "id": "UG411",
+        "name": "Ntungamo"
+    },
+    {
+        "id": "UG328",
+        "name": "Nwoya"
+    },
+    {
+        "id": "UG331",
+        "name": "Omoro"
+    },
+    {
+        "id": "UG329",
+        "name": "Otuke"
+    },
+    {
+        "id": "UG321",
+        "name": "Oyam"
+    },
+    {
+        "id": "UG312",
+        "name": "Pader"
+    },
+    {
+        "id": "UG332",
+        "name": "Pakwach"
+    },
+    {
+        "id": "UG210",
+        "name": "Pallisa"
+    },
+    {
+        "id": "UG110",
+        "name": "Rakai"
+    },
+    {
+        "id": "UG429",
+        "name": "Rubanda"
+    },
+    {
+        "id": "UG425",
+        "name": "Rubirizi"
+    },
+    {
+        "id": "UG431",
+        "name": "Rukiga"
+    },
+    {
+        "id": "UG412",
+        "name": "Rukungiri"
+    },
+    {
+        "id": "UG111",
+        "name": "Sembabule"
+    },
+    {
+        "id": "UG232",
+        "name": "Serere"
+    },
+    {
+        "id": "UG426",
+        "name": "Sheema"
+    },
+    {
+        "id": "UG215",
+        "name": "Sironko"
+    },
+    {
+        "id": "UG211",
+        "name": "Soroti"
+    },
+    {
+        "id": "UG212",
+        "name": "Tororo"
+    },
+    {
+        "id": "UG113",
+        "name": "Wakiso"
+    },
+    {
+        "id": "UG313",
+        "name": "Yumbe"
+    },
+    {
+        "id": "UG330",
+        "name": "Zombo"
+    }]
+}]
