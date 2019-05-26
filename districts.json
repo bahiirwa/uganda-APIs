@@ -5,17 +5,17 @@
         "name": "Abim",
         "region": "North",
         "size": "2346",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "name": "Labwor",
-                "sub-county": [
+                "sub_counties": [
                     {
                         "name" : "Abim",
-                        "parish" : [
+                        "parishes" : [
                             {
                                 "name": "Atunga",
-                                "sub-parish": [
+                                "sub_parishes": [
                                     {
                                         "name": "Oryotene",
                                         "village": [
@@ -52,7 +52,7 @@
                             },
                             {
                                 "name": "Kanu",
-                                "sub-parish": [
+                                "sub_parishes": [
                                     {
                                         "name": "Kanu Health Centre II",
                                         "village": [
@@ -65,7 +65,7 @@
                             },
                             {
                                 "name": "Arembwola",
-                                "sub-parish": [
+                                "sub_parishes": [
                                     {
                                         "name": "Arembwola Pr. Sch",
                                         "village": [
@@ -78,7 +78,7 @@
                             },
                             {
                                 "name": "Aninata",
-                                "sub-parish": [
+                                "sub_parishes": [
                                     {
                                         "name": "Aninata Pr. Sch",
                                         "village": [
@@ -93,9 +93,9 @@
                     },
                     {
                         "name" : "Alerek",
-                        "parish" : [{
+                        "parishes" : [{
                             "name": "",
-                            "sub-parish": [{
+                            "sub_parishes": [{
                                 "name": "",
                                 "village": [{
                                     "name": ""
@@ -105,9 +105,9 @@
                     },
                     {
                         "name" : "Lotukei",
-                        "parish" : [{
+                        "parishes" : [{
                             "name": "",
-                            "sub-parish": [{
+                            "sub_parishes": [{
                                 "name": "",
                                 "village": [{
                                     "name": ""
@@ -117,9 +117,9 @@
                     },
                     {
                         "name" : "Morulem",
-                        "parish" : [{
+                        "parishes" : [{
                             "name": "",
-                            "sub-parish": [{
+                            "sub_parishes": [{
                                 "name": "",
                                 "village": [{
                                     "name": ""
@@ -129,9 +129,9 @@
                     },
                     {
                         "name" : "Nyakwae",
-                        "parish" : [{
+                        "parishes" : [{
                             "name": "",
-                            "sub-parish": [{
+                            "sub_parishes": [{
                                 "name": "",
                                 "village": [{
                                     "name": ""
@@ -141,9 +141,9 @@
                     },
                     {
                         "name" : "Abim Town Council",
-                        "parish" : [{
+                        "parishes" : [{
                             "name": "",
-                            "sub-parish": [{
+                            "sub_parishes": [{
                                 "name": "",
                                 "village": [{
                                     "name": ""
@@ -161,16 +161,16 @@
         "name": "Adjumani",
         "region": "North",
         "size": "2962",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -187,16 +187,16 @@
         "name": "Agago",
         "region": "North",
         "size": "3503",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -213,16 +213,16 @@
         "name": "Alebtong",
         "region": "North",
         "size": "1535",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -239,16 +239,16 @@
         "name": "Amolatar",
         "region": "North",
         "size": "1157",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -265,16 +265,16 @@
         "name": "Amudat",
         "region": "North",
         "size": "1626",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -291,16 +291,16 @@
         "name": "Amuria",
         "region": "East",
         "size": "2578",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -317,16 +317,16 @@
         "name": "Amuru",
         "region": "North",
         "size": "2578",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -343,16 +343,16 @@
         "name": "Apac",
         "region": "North",
         "size": "2947",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -369,16 +369,16 @@
         "name": "Arua",
         "region": "North",
         "size": "4343",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -395,16 +395,16 @@
         "name": "Budaka",
         "region": "East",
         "size": "408",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -421,16 +421,16 @@
         "name": "Bududa",
         "region": "East",
         "size": "316",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -447,16 +447,16 @@
         "name": "Bugiri",
         "region": "East",
         "size": "1038",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -473,16 +473,16 @@
         "name": "Bugweri",
         "region": "East",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -499,16 +499,16 @@
         "name": "Buhweju",
         "region": "East",
         "size": "748",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -525,16 +525,16 @@
         "name": "Buikwe",
         "region": "Central",
         "size": "1206",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -551,16 +551,16 @@
         "name": "Bukedea",
         "region": "East",
         "size": "1032",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -577,16 +577,16 @@
         "name": "Bukomansimbi",
         "region": "Central",
         "size": "599",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -603,16 +603,16 @@
         "name": "Bukwa",
         "region": "East",
         "size": "524",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -629,16 +629,16 @@
         "name": "Bulambuli",
         "region": "East",
         "size": "693",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -655,16 +655,16 @@
         "name": "Buliisa",
         "region": "West",
         "size": "1108",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -681,16 +681,16 @@
         "name": "Bundibugyo",
         "region": "West",
         "size": "848",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -707,16 +707,16 @@
         "name": "Bunyangabu",
         "region": "West",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -733,16 +733,16 @@
         "name": "Bushenyi",
         "region": "West",
         "size": "844",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -759,16 +759,16 @@
         "name": "Busia",
         "region": "East",
         "size": "734",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -785,16 +785,16 @@
         "name": "Butaleja",
         "region": "East",
         "size": "653",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -811,16 +811,16 @@
         "name": "Butambala",
         "region": "Central",
         "size": "403",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -837,16 +837,16 @@
         "name": "Butebo",
         "region": "East",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -863,16 +863,16 @@
         "name": "Buvuma",
         "region": "Central",
         "size": "293",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -889,16 +889,16 @@
         "name": "Buyende",
         "region": "East",
         "size": "1379",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -915,16 +915,16 @@
         "name": "Dokolo",
         "region": "North",
         "size": "1004",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -941,16 +941,16 @@
         "name": "Gomba",
         "region": "Central",
         "size": "1664",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -967,16 +967,16 @@
         "name": "Gulu",
         "region": "North",
         "size": "3433",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -993,16 +993,16 @@
         "name": "Hoima",
         "region": "West",
         "size": "3671",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1019,16 +1019,16 @@
         "name": "Ibanda",
         "region": "West",
         "size": "969",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1045,16 +1045,16 @@
         "name": "Iganga",
         "region": "East",
         "size": "1017",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1071,16 +1071,16 @@
         "name": "Isingiro",
         "region": "West",
         "size": "2613",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1097,16 +1097,16 @@
         "name": "Jinja",
         "region": "East",
         "size": "677",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1123,16 +1123,16 @@
         "name": "Kaabong",
         "region": "North",
         "size": "7298",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1149,16 +1149,16 @@
         "name": "Kabale",
         "region": "West",
         "size": "1680",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1175,16 +1175,16 @@
         "name": "Kabarole",
         "region": "West",
         "size": "1810",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1201,16 +1201,16 @@
         "name": "Kaberamaido",
         "region": "East",
         "size": "1342",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1227,16 +1227,16 @@
         "name": "Kagadi",
         "region": "West",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1253,16 +1253,16 @@
         "name": "Kakumiro",
         "region": "West",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1279,16 +1279,16 @@
         "name": "Kalangala",
         "region": "Central",
         "size": "451",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1305,16 +1305,16 @@
         "name": "Kaliro",
         "region": "East",
         "size": "778",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1331,16 +1331,16 @@
         "name": "Kalungu",
         "region": "Central",
         "size": "812",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1357,16 +1357,16 @@
         "name": "Kampala",
         "region": "Central",
         "size": "188",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1383,16 +1383,16 @@
         "name": "Kamuli",
         "region": "East",
         "size": "1514",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1409,16 +1409,16 @@
         "name": "Kamwenge",
         "region": "West",
         "size": "2340",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1435,16 +1435,16 @@
         "name": "Kanungu",
         "region": "West",
         "size": "1271",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1461,16 +1461,16 @@
         "name": "Kapchorwa",
         "region": "East",
         "size": "352",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1487,16 +1487,16 @@
         "name": "Kapelebyong",
         "region": "East",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1513,16 +1513,16 @@
         "name": "Kasanda",
         "region": "Central",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1539,16 +1539,16 @@
         "name": "Kasese",
         "region": "West",
         "size": "2943",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1565,16 +1565,16 @@
         "name": "Katakwi",
         "region": "East",
         "size": "2306",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1591,16 +1591,16 @@
         "name": "Kayunga",
         "region": "Central",
         "size": "1592",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1617,16 +1617,16 @@
         "name": "Kibaale",
         "region": "West",
         "size": "4242",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1643,16 +1643,16 @@
         "name": "Kiboga",
         "region": "Central",
         "size": "1592",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1669,16 +1669,16 @@
         "name": "Kibuku",
         "region": "East",
         "size": "481",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1695,16 +1695,16 @@
         "name": "Kikuube",
         "region": "West",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1721,16 +1721,16 @@
         "name": "Kiruhura",
         "region": "West",
         "size": "4555",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1747,16 +1747,16 @@
         "name": "Kiryandongo",
         "region": "West",
         "size": "3595",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1773,16 +1773,16 @@
         "name": "Kisoro",
         "region": "West",
         "size": "699",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1799,16 +1799,16 @@
         "name": "Kitgum",
         "region": "North",
         "size": "3998",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1825,16 +1825,16 @@
         "name": "Koboko",
         "region": "North",
         "size": "760",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1851,16 +1851,16 @@
         "name": "Kole",
         "region": "North",
         "size": "1071",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1877,16 +1877,16 @@
         "name": "Kotido",
         "region": "North",
         "size": "3620",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1903,16 +1903,16 @@
         "name": "Kumi",
         "region": "East",
         "size": "1003",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1929,16 +1929,16 @@
         "name": "Kwania",
         "region": "North",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1955,16 +1955,16 @@
         "name": "Kween",
         "region": "East",
         "size": "850",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -1981,16 +1981,16 @@
         "name": "Kyankwanzi",
         "region": "Central",
         "size": "2466",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2007,16 +2007,16 @@
         "name": "Kyegegwa",
         "region": "West",
         "size": "1747",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2033,16 +2033,16 @@
         "name": "Kyenjojo",
         "region": "West",
         "size": "2357",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2059,16 +2059,16 @@
         "name": "Kyotera",
         "region": "Central",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2085,16 +2085,16 @@
         "name": "Lamwo",
         "region": "North",
         "size": "5598",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2111,16 +2111,16 @@
         "name": "Lira",
         "region": "North",
         "size": "1327",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2137,16 +2137,16 @@
         "name": "Luuka",
         "region": "East",
         "size": "648",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2163,16 +2163,16 @@
         "name": "Luwero",
         "region": "Central",
         "size": "2216",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2189,16 +2189,16 @@
         "name": "Lwengo",
         "region": "Central",
         "size": "1024",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2215,16 +2215,16 @@
         "name": "Lyantonde",
         "region": "Central",
         "size": "883",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2241,16 +2241,16 @@
         "name": "Manafwa",
         "region": "East",
         "size": "533",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2267,16 +2267,16 @@
         "name": "Maracha",
         "region": "North",
         "size": "1572",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2293,16 +2293,16 @@
         "name": "Masaka",
         "region": "Central",
         "size": "1158",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2319,16 +2319,16 @@
         "name": "Masindi",
         "region": "West",
         "size": "3932",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2345,16 +2345,16 @@
         "name": "Mayuge",
         "region": "East",
         "size": "1073",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2371,16 +2371,16 @@
         "name": "Mbale",
         "region": "East",
         "size": "517",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2397,16 +2397,16 @@
         "name": "Mbarara",
         "region": "West",
         "size": "1781",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2423,16 +2423,16 @@
         "name": "Mitooma",
         "region": "West",
         "size": "542",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2449,16 +2449,16 @@
         "name": "Mityana",
         "region": "Central",
         "size": "1542",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2475,16 +2475,16 @@
         "name": "Moroto",
         "region": "North",
         "size": "3564",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2501,16 +2501,16 @@
         "name": "Moyo",
         "region": "North",
         "size": "1902",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2527,16 +2527,16 @@
         "name": "Mpigi",
         "region": "Central",
         "size": "1202",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2553,16 +2553,16 @@
         "name": "Mubende",
         "region": "Central",
         "size": "4591",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2579,16 +2579,16 @@
         "name": "Mukono",
         "region": "Central",
         "size": "1829",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2605,16 +2605,16 @@
         "name": "Nabilatuk",
         "region": "North",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2631,16 +2631,16 @@
         "name": "Nakapiripirit",
         "region": "North",
         "size": "4233",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2657,16 +2657,16 @@
         "name": "Nakaseke",
         "region": "Central",
         "size": "3461",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2683,16 +2683,16 @@
         "name": "Nakasongola",
         "region": "Central",
         "size": "3303",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2709,16 +2709,16 @@
         "name": "Namayingo",
         "region": "East",
         "size": "585",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2735,16 +2735,16 @@
         "name": "Namisindwa",
         "region": "East",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2761,16 +2761,16 @@
         "name": "Namutumba",
         "region": "East",
         "size": "810",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2787,16 +2787,16 @@
         "name": "Napak",
         "region": "North",
         "size": "4901",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2813,16 +2813,16 @@
         "name": "Nebbi",
         "region": "North",
         "size": "1915",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2839,16 +2839,16 @@
         "name": "Ngora",
         "region": "East",
         "size": "637",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2865,16 +2865,16 @@
         "name": "Ntoroko",
         "region": "West",
         "size": "1239",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2891,16 +2891,16 @@
         "name": "Ntungamo",
         "region": "West",
         "size": "2048",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2917,16 +2917,16 @@
         "name": "Nwoya",
         "region": "North",
         "size": "4601",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2943,16 +2943,16 @@
         "name": "Omoro",
         "region": "North",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2969,16 +2969,16 @@
         "name": "Otuke",
         "region": "North",
         "size": "1555",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -2995,16 +2995,16 @@
         "name": "Oyam",
         "region": "North",
         "size": "2190",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3021,16 +3021,16 @@
         "name": "Pader",
         "region": "North",
         "size": "3294",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3047,16 +3047,16 @@
         "name": "Pakwach",
         "region": "North",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3073,16 +3073,16 @@
         "name": "Pallisa",
         "region": "East",
         "size": "1030",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3099,16 +3099,16 @@
         "name": "Rakai",
         "region": "Central",
         "size": "3245",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3125,16 +3125,16 @@
         "name": "Rubanda",
         "region": "West",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3151,16 +3151,16 @@
         "name": "Rubirizi",
         "region": "West",
         "size": "1092",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3177,16 +3177,16 @@
         "name": "Rukiga",
         "region": "West",
         "size": "",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3203,16 +3203,16 @@
         "name": "Rukungiri",
         "region": "West",
         "size": "1435",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3229,16 +3229,16 @@
         "name": "Sembabule",
         "region": "Central",
         "size": "2315",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3255,16 +3255,16 @@
         "name": "Serere",
         "region": "East",
         "size": "1495",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3281,16 +3281,16 @@
         "name": "Sheema",
         "region": "West",
         "size": "696",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3307,16 +3307,16 @@
         "name": "Sironko",
         "region": "East",
         "size": "401",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3333,16 +3333,16 @@
         "name": "Soroti",
         "region": "East",
         "size": "1366",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3359,16 +3359,16 @@
         "name": "Tororo",
         "region": "East",
         "size": "1192",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3385,16 +3385,16 @@
         "name": "Wakiso",
         "region": "Central",
         "size": "1882",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3411,16 +3411,16 @@
         "name": "Yumbe",
         "region": "North",
         "size": "2318",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
@@ -3437,16 +3437,16 @@
         "name": "Zombo",
         "region": "North",
         "size": "940",
-        "size-units": "sq. kms",
-        "county": [
+        "size_units": "sq. kms",
+        "counties": [
             {
                 "id": "",
                 "name": "",
-                "sub-county": [{
+                "sub_counties": [{
                     "name" : "",
-                    "parish" : [{
+                    "parishes" : [{
                         "name": "",
-                        "sub-parish": [{
+                        "sub_parishes": [{
                             "name": "",
                             "village": [{
                                 "name": ""
