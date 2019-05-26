@@ -20,7 +20,7 @@ Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/IS
 * No. of Villages: 60800
 * No. of Voters: 17073493
 
-## Credits
+## Information Credits
 [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:UG)
 
-[Collin Rukundo](https://africaopendata.org/dataset/election-voter-data)
+[Uganda Electoral Commission](https://www.ec.or.ug/)
