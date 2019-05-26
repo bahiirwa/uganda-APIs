@@ -1,9 +1,9 @@
 [{
     "districts": [
     {
-        "id" : "UG314",
+        "id" : "UG-314",
         "name": "Abim",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -13,9 +13,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG301",
+        "id": "UG-301",
         "name": "Adjumani",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -25,9 +25,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG322",
+        "id": "UG-322",
         "name": "Agago",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -37,9 +37,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG323",
+        "id": "UG-323",
         "name": "Alebtong",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -49,9 +49,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG315",
+        "id": "UG-315",
         "name": "Amolatar",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -61,9 +61,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG324",
+        "id": "UG-324",
         "name": "Amudat",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -73,9 +73,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG216",
+        "id": "UG-216",
         "name": "Amuria",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -85,9 +85,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG316",
+        "id": "UG-316",
         "name": "Amuru",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -97,9 +97,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG302",
+        "id": "UG-302",
         "name": "Apac",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -109,9 +109,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG303",
+        "id": "UG-303",
         "name": "Arua",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -121,9 +121,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG217",
+        "id": "UG-217",
         "name": "Budaka",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -133,9 +133,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG218",
+        "id": "UG-218",
         "name": "Bududa",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -145,9 +145,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG201",
+        "id": "UG-201",
         "name": "Bugiri",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -157,9 +157,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG235",
+        "id": "UG-235",
         "name": "Bugweri",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -169,9 +169,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG420",
+        "id": "UG-420",
         "name": "Buhweju",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -181,9 +181,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG117",
+        "id": "UG-117",
         "name": "Buikwe",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -193,9 +193,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG219",
+        "id": "UG-219",
         "name": "Bukedea",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -205,9 +205,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG118",
+        "id": "UG-118",
         "name": "Bukomansimbi",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -217,9 +217,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG220",
+        "id": "UG-220",
         "name": "Bukwa",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -229,9 +229,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG225",
+        "id": "UG-225",
         "name": "Bulambuli",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -241,9 +241,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG416",
+        "id": "UG-416",
         "name": "Buliisa",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -253,9 +253,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG401",
+        "id": "UG-401",
         "name": "Bundibugyo",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -265,9 +265,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG430",
+        "id": "UG-430",
         "name": "Bunyangabu",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -277,9 +277,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG402",
+        "id": "UG-402",
         "name": "Bushenyi",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -289,9 +289,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG202",
+        "id": "UG-202",
         "name": "Busia",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -301,9 +301,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG221",
+        "id": "UG-221",
         "name": "Butaleja",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -313,9 +313,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG119",
+        "id": "UG-119",
         "name": "Butambala",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -325,9 +325,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG233",
+        "id": "UG-233",
         "name": "Butebo",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -337,9 +337,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG120",
+        "id": "UG-120",
         "name": "Buvuma",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -349,9 +349,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG226",
+        "id": "UG-226",
         "name": "Buyende",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -361,9 +361,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG317",
+        "id": "UG-317",
         "name": "Dokolo",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -373,9 +373,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG121",
+        "id": "UG-121",
         "name": "Gomba",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -385,9 +385,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG304",
+        "id": "UG-304",
         "name": "Gulu",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -397,9 +397,9 @@
         "townstatus" : "true"
     },
     {
-        "id": "UG403",
+        "id": "UG-403",
         "name": "Hoima",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -409,9 +409,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG417",
+        "id": "UG-417",
         "name": "Ibanda",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -421,9 +421,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG203",
+        "id": "UG-203",
         "name": "Iganga",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -433,9 +433,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG418",
+        "id": "UG-418",
         "name": "Isingiro",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -445,9 +445,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG204",
+        "id": "UG-204",
         "name": "Jinja",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -457,9 +457,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG318",
+        "id": "UG-318",
         "name": "Kaabong",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -469,9 +469,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG404",
+        "id": "UG-404",
         "name": "Kabale",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -481,9 +481,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG405",
+        "id": "UG-405",
         "name": "Kabarole",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -493,9 +493,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG213",
+        "id": "UG-213",
         "name": "Kaberamaido",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -505,9 +505,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG427",
+        "id": "UG-427",
         "name": "Kagadi",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -517,9 +517,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG428",
+        "id": "UG-428",
         "name": "Kakumiro",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -529,9 +529,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG101",
+        "id": "UG-101",
         "name": "Kalangala",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -541,9 +541,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG222",
+        "id": "UG-222",
         "name": "Kaliro",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -553,9 +553,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG122",
+        "id": "UG-122",
         "name": "Kalungu",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -565,9 +565,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG102",
+        "id": "UG-102",
         "name": "Kampala",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -577,9 +577,9 @@
         "townstatus" : "true"
     },
     {
-        "id": "UG205",
+        "id": "UG-205",
         "name": "Kamuli",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -589,9 +589,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG413",
+        "id": "UG-413",
         "name": "Kamwenge",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -601,9 +601,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG414",
+        "id": "UG-414",
         "name": "Kanungu",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -613,9 +613,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG206",
+        "id": "UG-206",
         "name": "Kapchorwa",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -625,9 +625,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG236",
+        "id": "UG-236",
         "name": "Kapelebyong",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -637,9 +637,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG126",
+        "id": "UG-126",
         "name": "Kasanda",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -649,9 +649,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG406",
+        "id": "UG-406",
         "name": "Kasese",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -661,9 +661,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG207",
+        "id": "UG-207",
         "name": "Katakwi",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -673,9 +673,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG112",
+        "id": "UG-112",
         "name": "Kayunga",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -685,9 +685,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG407",
+        "id": "UG-407",
         "name": "Kibaale",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -697,9 +697,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG103",
+        "id": "UG-103",
         "name": "Kiboga",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -709,9 +709,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG227",
+        "id": "UG-227",
         "name": "Kibuku",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -721,9 +721,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG432",
+        "id": "UG-432",
         "name": "Kikuube",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -733,9 +733,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG419",
+        "id": "UG-419",
         "name": "Kiruhura",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -745,9 +745,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG421",
+        "id": "UG-421",
         "name": "Kiryandongo",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -757,9 +757,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG408",
+        "id": "UG-408",
         "name": "Kisoro",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -769,9 +769,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG305",
+        "id": "UG-305",
         "name": "Kitgum",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -781,9 +781,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG319",
+        "id": "UG-319",
         "name": "Koboko",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -793,9 +793,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG325",
+        "id": "UG-325",
         "name": "Kole",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -805,9 +805,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG306",
+        "id": "UG-306",
         "name": "Kotido",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -817,9 +817,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG208",
+        "id": "UG-208",
         "name": "Kumi",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -829,9 +829,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG333",
+        "id": "UG-333",
         "name": "Kwania",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -841,9 +841,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG228",
+        "id": "UG-228",
         "name": "Kween",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -853,9 +853,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG123",
+        "id": "UG-123",
         "name": "Kyankwanzi",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -865,9 +865,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG422",
+        "id": "UG-422",
         "name": "Kyegegwa",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -877,9 +877,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG415",
+        "id": "UG-415",
         "name": "Kyenjojo",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -889,9 +889,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG125",
+        "id": "UG-125",
         "name": "Kyotera",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -901,9 +901,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG326",
+        "id": "UG-326",
         "name": "Lamwo",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -913,9 +913,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG307",
+        "id": "UG-307",
         "name": "Lira",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -925,9 +925,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG229",
+        "id": "UG-229",
         "name": "Luuka",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -937,9 +937,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG104",
+        "id": "UG-104",
         "name": "Luwero",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -949,9 +949,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG124",
+        "id": "UG-124",
         "name": "Lwengo",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -961,9 +961,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG114",
+        "id": "UG-114",
         "name": "Lyantonde",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -973,9 +973,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG223",
+        "id": "UG-223",
         "name": "Manafwa",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -985,9 +985,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG320",
+        "id": "UG-320",
         "name": "Maracha",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -997,9 +997,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG105",
+        "id": "UG-105",
         "name": "Masaka",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1009,9 +1009,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG409",
+        "id": "UG-409",
         "name": "Masindi",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1021,9 +1021,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG214",
+        "id": "UG-214",
         "name": "Mayuge",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1033,9 +1033,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG209",
+        "id": "UG-209",
         "name": "Mbale",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1045,9 +1045,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG410",
+        "id": "UG-410",
         "name": "Mbarara",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1057,9 +1057,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG423",
+        "id": "UG-423",
         "name": "Mitooma",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1069,9 +1069,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG115",
+        "id": "UG-115",
         "name": "Mityana",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1081,9 +1081,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG308",
+        "id": "UG-308",
         "name": "Moroto",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1093,9 +1093,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG309",
+        "id": "UG-309",
         "name": "Moyo",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1105,9 +1105,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG106",
+        "id": "UG-106",
         "name": "Mpigi",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1117,9 +1117,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG107",
+        "id": "UG-107",
         "name": "Mubende",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1129,9 +1129,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG108",
+        "id": "UG-108",
         "name": "Mukono",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1141,9 +1141,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG334",
+        "id": "UG-334",
         "name": "Nabilatuk",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1153,9 +1153,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG311",
+        "id": "UG-311",
         "name": "Nakapiripirit",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1165,9 +1165,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG116",
+        "id": "UG-116",
         "name": "Nakaseke",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1177,9 +1177,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG109",
+        "id": "UG-109",
         "name": "Nakasongola",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1189,9 +1189,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG230",
+        "id": "UG-230",
         "name": "Namayingo",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1201,9 +1201,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG234",
+        "id": "UG-234",
         "name": "Namisindwa",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1213,9 +1213,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG224",
+        "id": "UG-224",
         "name": "Namutumba",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1225,9 +1225,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG327",
+        "id": "UG-327",
         "name": "Napak",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1237,9 +1237,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG310",
+        "id": "UG-310",
         "name": "Nebbi",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1249,9 +1249,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG231",
+        "id": "UG-231",
         "name": "Ngora",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1261,9 +1261,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG424",
+        "id": "UG-424",
         "name": "Ntoroko",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1273,9 +1273,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG411",
+        "id": "UG-411",
         "name": "Ntungamo",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1285,9 +1285,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG328",
+        "id": "UG-328",
         "name": "Nwoya",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1297,9 +1297,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG331",
+        "id": "UG-331",
         "name": "Omoro",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1309,9 +1309,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG329",
+        "id": "UG-329",
         "name": "Otuke",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1321,9 +1321,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG321",
+        "id": "UG-321",
         "name": "Oyam",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1333,9 +1333,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG312",
+        "id": "UG-312",
         "name": "Pader",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1345,9 +1345,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG332",
+        "id": "UG-332",
         "name": "Pakwach",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1357,9 +1357,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG210",
+        "id": "UG-210",
         "name": "Pallisa",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1369,9 +1369,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG110",
+        "id": "UG-110",
         "name": "Rakai",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1381,9 +1381,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG429",
+        "id": "UG-429",
         "name": "Rubanda",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1393,9 +1393,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG425",
+        "id": "UG-425",
         "name": "Rubirizi",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1405,9 +1405,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG431",
+        "id": "UG-431",
         "name": "Rukiga",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1417,9 +1417,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG412",
+        "id": "UG-412",
         "name": "Rukungiri",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1429,9 +1429,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG111",
+        "id": "UG-111",
         "name": "Sembabule",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1441,9 +1441,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG232",
+        "id": "UG-232",
         "name": "Serere",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1453,9 +1453,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG426",
+        "id": "UG-426",
         "name": "Sheema",
-        "region": "",
+        "region": "West",
         "county": [
             {
                 "id": "",
@@ -1465,9 +1465,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG215",
+        "id": "UG-215",
         "name": "Sironko",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1477,9 +1477,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG211",
+        "id": "UG-211",
         "name": "Soroti",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1489,9 +1489,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG212",
+        "id": "UG-212",
         "name": "Tororo",
-        "region": "",
+        "region": "East",
         "county": [
             {
                 "id": "",
@@ -1501,9 +1501,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG113",
+        "id": "UG-113",
         "name": "Wakiso",
-        "region": "",
+        "region": "Central",
         "county": [
             {
                 "id": "",
@@ -1513,9 +1513,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG313",
+        "id": "UG-313",
         "name": "Yumbe",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
@@ -1525,9 +1525,9 @@
         "townstatus" : "false"
     },
     {
-        "id": "UG330",
+        "id": "UG-330",
         "name": "Zombo",
-        "region": "",
+        "region": "North",
         "county": [
             {
                 "id": "",
