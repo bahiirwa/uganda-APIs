@@ -2,514 +2,1410 @@
     "districts": [
     {
         "id" : "UG314",
-        "name": "Abim"
+        "name": "Abim",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG301",
-        "name": "Adjumani"
+        "name": "Adjumani",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG322",
-        "name": "Agago"
+        "name": "Agago",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG323",
-        "name": "Alebtong"
+        "name": "Alebtong",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG315",
-        "name": "Amolatar"
+        "name": "Amolatar",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG324",
-        "name": "Amudat"
+        "name": "Amudat",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG216",
-        "name": "Amuria"
+        "name": "Amuria",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG316",
-        "name": "Amuru"
+        "name": "Amuru",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG302",
-        "name": "Apac"
+        "name": "Apac",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG303",
-        "name": "Arua"
+        "name": "Arua",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG217",
-        "name": "Budaka"
+        "name": "Budaka",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG218",
-        "name": "Bududa"
+        "name": "Bududa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG201",
-        "name": "Bugiri"
+        "name": "Bugiri",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG235",
-        "name": "Bugweri"
+        "name": "Bugweri",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG420",
-        "name": "Buhweju"
+        "name": "Buhweju",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG117",
-        "name": "Buikwe"
+        "name": "Buikwe",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG219",
-        "name": "Bukedea"
+        "name": "Bukedea",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG118",
-        "name": "Bukomansimbi"
+        "name": "Bukomansimbi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG220",
-        "name": "Bukwa"
+        "name": "Bukwa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG225",
-        "name": "Bulambuli"
+        "name": "Bulambuli",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG416",
-        "name": "Buliisa"
+        "name": "Buliisa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG401",
-        "name": "Bundibugyo"
+        "name": "Bundibugyo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG430",
-        "name": "Bunyangabu"
+        "name": "Bunyangabu",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG402",
-        "name": "Bushenyi"
+        "name": "Bushenyi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG202",
-        "name": "Busia"
+        "name": "Busia",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG221",
-        "name": "Butaleja"
+        "name": "Butaleja",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG119",
-        "name": "Butambala"
+        "name": "Butambala",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG233",
-        "name": "Butebo"
+        "name": "Butebo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG120",
-        "name": "Buvuma"
+        "name": "Buvuma",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG226",
-        "name": "Buyende"
+        "name": "Buyende",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG317",
-        "name": "Dokolo"
+        "name": "Dokolo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG121",
-        "name": "Gomba"
+        "name": "Gomba",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG304",
-        "name": "Gulu"
+        "name": "Gulu",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "true"
     },
     {
         "id": "UG403",
-        "name": "Hoima"
+        "name": "Hoima",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG417",
-        "name": "Ibanda"
+        "name": "Ibanda",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG203",
-        "name": "Iganga"
+        "name": "Iganga",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG418",
-        "name": "Isingiro"
+        "name": "Isingiro",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG204",
-        "name": "Jinja"
+        "name": "Jinja",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG318",
-        "name": "Kaabong"
+        "name": "Kaabong",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG404",
-        "name": "Kabale"
+        "name": "Kabale",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG405",
-        "name": "Kabarole"
+        "name": "Kabarole",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG213",
-        "name": "Kaberamaido"
+        "name": "Kaberamaido",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG427",
-        "name": "Kagadi"
+        "name": "Kagadi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG428",
-        "name": "Kakumiro"
+        "name": "Kakumiro",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG101",
-        "name": "Kalangala"
+        "name": "Kalangala",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG222",
-        "name": "Kaliro"
+        "name": "Kaliro",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG122",
-        "name": "Kalungu"
+        "name": "Kalungu",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG102",
-        "name": "Kampala"
+        "name": "Kampala",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "true"
     },
     {
         "id": "UG205",
-        "name": "Kamuli"
+        "name": "Kamuli",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG413",
-        "name": "Kamwenge"
+        "name": "Kamwenge",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG414",
-        "name": "Kanungu"
+        "name": "Kanungu",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG206",
-        "name": "Kapchorwa"
+        "name": "Kapchorwa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG236",
-        "name": "Kapelebyong"
+        "name": "Kapelebyong",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG126",
-        "name": "Kasanda"
+        "name": "Kasanda",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG406",
-        "name": "Kasese"
+        "name": "Kasese",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG207",
-        "name": "Katakwi"
+        "name": "Katakwi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG112",
-        "name": "Kayunga"
+        "name": "Kayunga",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG407",
-        "name": "Kibaale"
+        "name": "Kibaale",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG103",
-        "name": "Kiboga"
+        "name": "Kiboga",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG227",
-        "name": "Kibuku"
+        "name": "Kibuku",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG432",
-        "name": "Kikuube"
+        "name": "Kikuube",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG419",
-        "name": "Kiruhura"
+        "name": "Kiruhura",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG421",
-        "name": "Kiryandongo"
+        "name": "Kiryandongo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG408",
-        "name": "Kisoro"
+        "name": "Kisoro",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG305",
-        "name": "Kitgum"
+        "name": "Kitgum",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG319",
-        "name": "Koboko"
+        "name": "Koboko",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG325",
-        "name": "Kole"
+        "name": "Kole",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG306",
-        "name": "Kotido"
+        "name": "Kotido",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG208",
-        "name": "Kumi"
+        "name": "Kumi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG333",
-        "name": "Kwania"
+        "name": "Kwania",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG228",
-        "name": "Kween"
+        "name": "Kween",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG123",
-        "name": "Kyankwanzi"
+        "name": "Kyankwanzi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG422",
-        "name": "Kyegegwa"
+        "name": "Kyegegwa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG415",
-        "name": "Kyenjojo"
+        "name": "Kyenjojo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG125",
-        "name": "Kyotera"
+        "name": "Kyotera",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG326",
-        "name": "Lamwo"
+        "name": "Lamwo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG307",
-        "name": "Lira"
+        "name": "Lira",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG229",
-        "name": "Luuka"
+        "name": "Luuka",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG104",
-        "name": "Luwero"
+        "name": "Luwero",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG124",
-        "name": "Lwengo"
+        "name": "Lwengo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG114",
-        "name": "Lyantonde"
+        "name": "Lyantonde",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG223",
-        "name": "Manafwa"
+        "name": "Manafwa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG320",
-        "name": "Maracha"
+        "name": "Maracha",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG105",
-        "name": "Masaka"
+        "name": "Masaka",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG409",
-        "name": "Masindi"
+        "name": "Masindi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG214",
-        "name": "Mayuge"
+        "name": "Mayuge",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG209",
-        "name": "Mbale"
+        "name": "Mbale",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG410",
-        "name": "Mbarara"
+        "name": "Mbarara",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG423",
-        "name": "Mitooma"
+        "name": "Mitooma",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG115",
-        "name": "Mityana"
+        "name": "Mityana",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG308",
-        "name": "Moroto"
+        "name": "Moroto",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG309",
-        "name": "Moyo"
+        "name": "Moyo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG106",
-        "name": "Mpigi"
+        "name": "Mpigi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG107",
-        "name": "Mubende"
+        "name": "Mubende",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG108",
-        "name": "Mukono"
+        "name": "Mukono",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG334",
-        "name": "Nabilatuk"
+        "name": "Nabilatuk",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG311",
-        "name": "Nakapiripirit"
+        "name": "Nakapiripirit",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG116",
-        "name": "Nakaseke"
+        "name": "Nakaseke",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG109",
-        "name": "Nakasongola"
+        "name": "Nakasongola",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG230",
-        "name": "Namayingo"
+        "name": "Namayingo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG234",
-        "name": "Namisindwa"
+        "name": "Namisindwa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG224",
-        "name": "Namutumba"
+        "name": "Namutumba",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG327",
-        "name": "Napak"
+        "name": "Napak",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG310",
-        "name": "Nebbi"
+        "name": "Nebbi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG231",
-        "name": "Ngora"
+        "name": "Ngora",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG424",
-        "name": "Ntoroko"
+        "name": "Ntoroko",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG411",
-        "name": "Ntungamo"
+        "name": "Ntungamo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG328",
-        "name": "Nwoya"
+        "name": "Nwoya",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG331",
-        "name": "Omoro"
+        "name": "Omoro",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG329",
-        "name": "Otuke"
+        "name": "Otuke",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG321",
-        "name": "Oyam"
+        "name": "Oyam",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG312",
-        "name": "Pader"
+        "name": "Pader",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG332",
-        "name": "Pakwach"
+        "name": "Pakwach",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG210",
-        "name": "Pallisa"
+        "name": "Pallisa",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG110",
-        "name": "Rakai"
+        "name": "Rakai",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG429",
-        "name": "Rubanda"
+        "name": "Rubanda",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG425",
-        "name": "Rubirizi"
+        "name": "Rubirizi",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG431",
-        "name": "Rukiga"
+        "name": "Rukiga",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG412",
-        "name": "Rukungiri"
+        "name": "Rukungiri",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG111",
-        "name": "Sembabule"
+        "name": "Sembabule",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG232",
-        "name": "Serere"
+        "name": "Serere",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG426",
-        "name": "Sheema"
+        "name": "Sheema",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG215",
-        "name": "Sironko"
+        "name": "Sironko",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG211",
-        "name": "Soroti"
+        "name": "Soroti",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG212",
-        "name": "Tororo"
+        "name": "Tororo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG113",
-        "name": "Wakiso"
+        "name": "Wakiso",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG313",
-        "name": "Yumbe"
+        "name": "Yumbe",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     },
     {
         "id": "UG330",
-        "name": "Zombo"
+        "name": "Zombo",
+        "county": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "townstatus" : "false"
     }]
 }]
