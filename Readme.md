@@ -6,6 +6,9 @@ This repo has information about Uganda written in JSON format. Depending on your
 ## Districts of Uganda
 Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:UG)
 
+### Usage - Stable version
+https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts.json
+
 ### Testing Progress
 * use Abim district as a test. it has relatively complete data like
 
@@ -24,6 +27,8 @@ Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/IS
 [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:UG)
 
 [Uganda Electoral Commission](https://www.ec.or.ug/)
+
+[Africa Open Data](https://africaopendata.org/dataset/size-of-uganda-districts-in-square-kilometers/resource/ec5795f2-fb79-4f23-91ea-bad356aae555)
 
 [District, County, sub-county ](https://www.ec.or.ug/sites/VoterCount/registration%20statistics2011.pdf)
 
