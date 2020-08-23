@@ -1,0 +1,473 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "title": "The root schema",
+    "description": "The root schema comprises the entire JSON document.",
+    "default": {},
+    "examples": [
+        {
+            "id": "UG-301",
+            "name": "Adjumani",
+            "region": "North",
+            "size": "2962",
+            "size_units": "sq. kms",
+            "counties": [
+                {
+                    "id": "",
+                    "name": "",
+                    "sub_counties": [
+                        {
+                            "name": "",
+                            "parishes": [
+                                {
+                                    "name": "",
+                                    "sub_parishes": [
+                                        {
+                                            "name": "",
+                                            "village": [
+                                                {
+                                                    "name": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "townstatus": "false"
+        }
+    ],
+    "required": [
+        "id",
+        "name",
+        "region",
+        "size",
+        "size_units",
+        "counties",
+        "townstatus"
+    ],
+    "properties": {
+        "id": {
+            "$id": "#/properties/id",
+            "type": "string",
+            "title": "The id schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "UG-301"
+            ]
+        },
+        "name": {
+            "$id": "#/properties/name",
+            "type": "string",
+            "title": "The name schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "Adjumani"
+            ]
+        },
+        "region": {
+            "$id": "#/properties/region",
+            "type": "string",
+            "title": "The region schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "North"
+            ]
+        },
+        "size": {
+            "$id": "#/properties/size",
+            "type": "string",
+            "title": "The size schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "2962"
+            ]
+        },
+        "size_units": {
+            "$id": "#/properties/size_units",
+            "type": "string",
+            "title": "The size_units schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "sq. kms"
+            ]
+        },
+        "counties": {
+            "$id": "#/properties/counties",
+            "type": "array",
+            "title": "The counties schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "id": "",
+                        "name": "",
+                        "sub_counties": [
+                            {
+                                "name": "",
+                                "parishes": [
+                                    {
+                                        "name": "",
+                                        "sub_parishes": [
+                                            {
+                                                "name": "",
+                                                "village": [
+                                                    {
+                                                        "name": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/counties/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/counties/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "id": "",
+                                "name": "",
+                                "sub_counties": [
+                                    {
+                                        "name": "",
+                                        "parishes": [
+                                            {
+                                                "name": "",
+                                                "sub_parishes": [
+                                                    {
+                                                        "name": "",
+                                                        "village": [
+                                                            {
+                                                                "name": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "required": [
+                            "id",
+                            "name",
+                            "sub_counties"
+                        ],
+                        "properties": {
+                            "id": {
+                                "$id": "#/properties/counties/items/anyOf/0/properties/id",
+                                "type": "string",
+                                "title": "The id schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            },
+                            "name": {
+                                "$id": "#/properties/counties/items/anyOf/0/properties/name",
+                                "type": "string",
+                                "title": "The name schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            },
+                            "sub_counties": {
+                                "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties",
+                                "type": "array",
+                                "title": "The sub_counties schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "default": [],
+                                "examples": [
+                                    [
+                                        {
+                                            "name": "",
+                                            "parishes": [
+                                                {
+                                                    "name": "",
+                                                    "sub_parishes": [
+                                                        {
+                                                            "name": "",
+                                                            "village": [
+                                                                {
+                                                                    "name": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ],
+                                "additionalItems": true,
+                                "items": {
+                                    "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items",
+                                    "anyOf": [
+                                        {
+                                            "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0",
+                                            "type": "object",
+                                            "title": "The first anyOf schema",
+                                            "description": "An explanation about the purpose of this instance.",
+                                            "default": {},
+                                            "examples": [
+                                                {
+                                                    "name": "",
+                                                    "parishes": [
+                                                        {
+                                                            "name": "",
+                                                            "sub_parishes": [
+                                                                {
+                                                                    "name": "",
+                                                                    "village": [
+                                                                        {
+                                                                            "name": ""
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "required": [
+                                                "name",
+                                                "parishes"
+                                            ],
+                                            "properties": {
+                                                "name": {
+                                                    "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/name",
+                                                    "type": "string",
+                                                    "title": "The name schema",
+                                                    "description": "An explanation about the purpose of this instance.",
+                                                    "default": "",
+                                                    "examples": [
+                                                        ""
+                                                    ]
+                                                },
+                                                "parishes": {
+                                                    "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes",
+                                                    "type": "array",
+                                                    "title": "The parishes schema",
+                                                    "description": "An explanation about the purpose of this instance.",
+                                                    "default": [],
+                                                    "examples": [
+                                                        [
+                                                            {
+                                                                "name": "",
+                                                                "sub_parishes": [
+                                                                    {
+                                                                        "name": "",
+                                                                        "village": [
+                                                                            {
+                                                                                "name": ""
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ],
+                                                    "additionalItems": true,
+                                                    "items": {
+                                                        "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items",
+                                                        "anyOf": [
+                                                            {
+                                                                "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0",
+                                                                "type": "object",
+                                                                "title": "The first anyOf schema",
+                                                                "description": "An explanation about the purpose of this instance.",
+                                                                "default": {},
+                                                                "examples": [
+                                                                    {
+                                                                        "name": "",
+                                                                        "sub_parishes": [
+                                                                            {
+                                                                                "name": "",
+                                                                                "village": [
+                                                                                    {
+                                                                                        "name": ""
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "required": [
+                                                                    "name",
+                                                                    "sub_parishes"
+                                                                ],
+                                                                "properties": {
+                                                                    "name": {
+                                                                        "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/name",
+                                                                        "type": "string",
+                                                                        "title": "The name schema",
+                                                                        "description": "An explanation about the purpose of this instance.",
+                                                                        "default": "",
+                                                                        "examples": [
+                                                                            ""
+                                                                        ]
+                                                                    },
+                                                                    "sub_parishes": {
+                                                                        "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes",
+                                                                        "type": "array",
+                                                                        "title": "The sub_parishes schema",
+                                                                        "description": "An explanation about the purpose of this instance.",
+                                                                        "default": [],
+                                                                        "examples": [
+                                                                            [
+                                                                                {
+                                                                                    "name": "",
+                                                                                    "village": [
+                                                                                        {
+                                                                                            "name": ""
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        ],
+                                                                        "additionalItems": true,
+                                                                        "items": {
+                                                                            "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items",
+                                                                            "anyOf": [
+                                                                                {
+                                                                                    "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items/anyOf/0",
+                                                                                    "type": "object",
+                                                                                    "title": "The first anyOf schema",
+                                                                                    "description": "An explanation about the purpose of this instance.",
+                                                                                    "default": {},
+                                                                                    "examples": [
+                                                                                        {
+                                                                                            "name": "",
+                                                                                            "village": [
+                                                                                                {
+                                                                                                    "name": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ],
+                                                                                    "required": [
+                                                                                        "name",
+                                                                                        "village"
+                                                                                    ],
+                                                                                    "properties": {
+                                                                                        "name": {
+                                                                                            "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items/anyOf/0/properties/name",
+                                                                                            "type": "string",
+                                                                                            "title": "The name schema",
+                                                                                            "description": "An explanation about the purpose of this instance.",
+                                                                                            "default": "",
+                                                                                            "examples": [
+                                                                                                ""
+                                                                                            ]
+                                                                                        },
+                                                                                        "village": {
+                                                                                            "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items/anyOf/0/properties/village",
+                                                                                            "type": "array",
+                                                                                            "title": "The village schema",
+                                                                                            "description": "An explanation about the purpose of this instance.",
+                                                                                            "default": [],
+                                                                                            "examples": [
+                                                                                                [
+                                                                                                    {
+                                                                                                        "name": ""
+                                                                                                    }
+                                                                                                ]
+                                                                                            ],
+                                                                                            "additionalItems": true,
+                                                                                            "items": {
+                                                                                                "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items/anyOf/0/properties/village/items",
+                                                                                                "anyOf": [
+                                                                                                    {
+                                                                                                        "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items/anyOf/0/properties/village/items/anyOf/0",
+                                                                                                        "type": "object",
+                                                                                                        "title": "The first anyOf schema",
+                                                                                                        "description": "An explanation about the purpose of this instance.",
+                                                                                                        "default": {},
+                                                                                                        "examples": [
+                                                                                                            {
+                                                                                                                "name": ""
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        "required": [
+                                                                                                            "name"
+                                                                                                        ],
+                                                                                                        "properties": {
+                                                                                                            "name": {
+                                                                                                                "$id": "#/properties/counties/items/anyOf/0/properties/sub_counties/items/anyOf/0/properties/parishes/items/anyOf/0/properties/sub_parishes/items/anyOf/0/properties/village/items/anyOf/0/properties/name",
+                                                                                                                "type": "string",
+                                                                                                                "title": "The name schema",
+                                                                                                                "description": "An explanation about the purpose of this instance.",
+                                                                                                                "default": "",
+                                                                                                                "examples": [
+                                                                                                                    ""
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "additionalProperties": true
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "additionalProperties": true
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "additionalProperties": true
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "additionalProperties": true
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        },
+        "townstatus": {
+            "$id": "#/properties/townstatus",
+            "type": "string",
+            "title": "The townstatus schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+                "false"
+            ]
+        }
+    },
+    "additionalProperties": true
+}

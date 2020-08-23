@@ -1,2 +1,2 @@
 - name: JSON Lint
-    uses: ocular-d/json-linter@0.0.1
+  uses: ocular-d/json-linter@0.0.1
