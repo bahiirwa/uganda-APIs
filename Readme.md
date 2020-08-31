@@ -26,7 +26,7 @@ This repo has information about Uganda written in JSON format. Depending on your
 Based on English names published at [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:UG)
 
 ## Usage - Stable version
-- [Districts](https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts.json)
+- [Districts](https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/districts_large_map.json)
 
 ## Testing Progress
 * use Abim district as a test. it has relatively complete data like
