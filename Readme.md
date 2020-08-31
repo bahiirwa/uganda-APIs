@@ -8,11 +8,17 @@ This repo has information about Uganda written in JSON format. Depending on your
 - Update the current details of the geographical mapping.
 - Suggest needed endpoints.
 - Proposal of way forward for project.
-- Converting the details from [District, County, sub-county ](https://www.ec.or.ug/sites/VoterCount/registration%20statistics2011.pdf) & [County, parish by district & sub-county](https://www.ec.or.ug/?q=2016-presidential-results-tally-sheets-district) into usable knowledge files e.g https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/usablefile.md
+- Converting the details from [District, County, sub-county, villages](https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/gismapping.md)
+
+#### How to build the GIS Mapping file.
+- Download and Unzip the [GIS-Parishes-2016.zip file](https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/GIS-Parishes-2016.zip)
+- Install a GIS software like Google Earth
+- Import the .gis file into Google Earth and pick the different places and add to the file.
+- Always record the last entry you make with the Last Object ID number.
 
 ### Developers
 - Proposal on converting the raw json to an admin centred API generator
-- Converting the details from [District, County, sub-county ](https://www.ec.or.ug/sites/VoterCount/registration%20statistics2011.pdf) & [County, parish by district & sub-county](https://www.ec.or.ug/?q=2016-presidential-results-tally-sheets-district) into JSON files.
+- Converting the details from [District, County, sub-county, villages](https://raw.githubusercontent.com/bahiirwa/uganda-APIs/master/gismapping.md) into consumable JSON files.
 - Suggest needed endpoints.
 - Proposal of way forward for project.
 
